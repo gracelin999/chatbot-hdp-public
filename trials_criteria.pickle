@@ -1,0 +1,4016 @@
+ccollections
+defaultdict
+p0
+(c__builtin__
+dict
+p1
+tp2
+Rp3
+S'NCT01745029'
+p4
+(dp5
+S'condition'
+p6
+S'Ulcerative Colitis'
+p7
+sS'intervention'
+p8
+S'Device|Motilis-3D-transit||Ulcerative Colitis|'
+p9
+ssS'NCT02403232'
+p10
+(dp11
+g6
+S'Perianal Fistula|Crohn Disease'
+p12
+sg8
+S'Procedure|ASCs injection|In the infiltration step, adrenalin in a saline solution is infiltrated using a 19-cm specially designed disposable blunt cannula.\nThe aspiration step is performed by a luer-lock syringe connected to a disposable 19-cm blunt cannula.\nThe harvested lipoaspirate can be progressively put into the device using multiple 10-cc syringes.\nSubsequently, in lithotomy position, a seton will be removed and a fistula tract will be thoroughly curetted and irrigated. After a mucosal flap preparing round the internal opening, cells will be injected in the perianal adipose tissue.|ASCs injection|\n\nDevice|ASCs injection|In general anesthesia subcutaneous abdominal adipose tissue will be collected by LIPOGEMS system to prepare ASCS.|ASCs injection|LIPOGEMS system\n\nDevice|Closure of fistula tract.|A SALVECOLL-E paste will be injected into the fistula tract.|ASCs injection|SALVECOLL-E paste'
+p13
+ssS'NCT02469220'
+p14
+(dp15
+g6
+S'Ulcerative Colitis'
+p16
+sg8
+S'Other|Low FODMAP diet||Low FODMAP diet|'
+p17
+ssS'NCT02048137'
+p18
+(dp19
+g6
+S'Inflammatory Bowel Disease'
+p20
+sg8
+S'Device|Transcranial direct current stimulation||Active transcranial direct current stimulation,Sham transcranial direct current stimulation|'
+p21
+ssS'NCT02335281'
+p22
+(dp23
+g6
+S"Inflammatory Bowel Disease|Ulcerative Colitis|Crohn's Disease"
+p24
+sg8
+S'Procedure|FMT|Standardized FMT once|Standardized FMT|\n\nDrug|Mesalazine|2g Po perday|Mesalazine|Mesalamine'
+p25
+ssS'NCT02193464'
+p26
+(dp27
+g6
+S'Idiopathic Chronic Inflammatory Bowel Disease'
+p28
+sg8
+S''
+p29
+ssS'NCT02275676'
+p30
+(dp31
+g6
+S'Inflammatory Bowel Disease|Malnutrition'
+p32
+sg8
+S'Other|bioelectrical impedance analysis||Inflammatory bowel disease|\n\nOther|indirect calorimetry||Inflammatory bowel disease|'
+p33
+ssS'NCT02179372'
+p34
+(dp35
+g6
+S"Ulcerative Colitis|Crohn's Disease"
+p36
+sg8
+S"Dietary Supplement|Eicosapentaenoic acid|30 subject with Crohn's Disease and/or Ulcerative Colitis in clinical remission but with fecal calprotectin value >150 \xce\xbcg/g will recive 2 g/day of Eicosapentaenoic acid for 6 months treatment. At 3 months and 6 months, fecal calprotectin and clinical activity (CDAI for Crohn's Disease and SCCAI for Ulcerative Colitis) will be measured. The effect of Eicosapentaenoic acid on fecal calprotectin level will be monitored. Clinical relapses will be considered during the study.|Eicosapentaenoic acid|ALFA TM (S.L.A. Pharma A.G. Switzerland)\n\nDietary Supplement|Medium chain fatty acid (placebo)|30 subject with Crohn's Disease and/or Ulcerative Colitis in clinical remission but with fecal calprotectin value >150 \xce\xbcg/g will recive 2 g/day of medium chain fatty acids for 6 months treatment. At 3 months and 6 months, fecal calprotectin and clinical activity (CDAI for Crohn's Disease and SCCAI for Ulcerative Colitis) will be measured.|Medium chain fatty acid (placebo)|"
+p37
+ssS'NCT01719198'
+p38
+(dp39
+g6
+S'Colon Adenoma'
+p40
+sg8
+g29
+ssS'NCT02352064'
+p41
+(dp42
+g6
+S'Chronic Graft Versus Host Disease'
+p43
+sg8
+S'Procedure|PET (18-FDG)|Every patient will have a PET|PET-CT at day 150+/-15 days|'
+p44
+ssS'NCT02197780'
+p45
+(dp46
+g6
+S"Abdominal Pain|Rectal Bloodloss|Diarrhea|Inflammatory Bowel Disease|Crohn's Disease|Ulcerative Colitis|Irritable Bowel Syndrome"
+p47
+sg8
+g29
+ssS'NCT02266849'
+p48
+(dp49
+g6
+S'Rectal Cancer|Ulcerative Colitis|Short Bowel Syndrome'
+p50
+sg8
+S'Drug|Loperamide|12 mg Loperamide each day for three days|Loperamide|Imodium\n\nDrug|Placebo|6 tablets daily for three days|Placebo|'
+p51
+ssS'NCT01440699'
+p52
+(dp53
+g6
+S'Crohn'
+p54
+sg8
+S'Biological|Allogenic human adipose-derived stem cells|ALLO-ASC 1xE7 cells/mL is injected once along the fistula. If there is no safety issue for 4 weeks, 3 more people could be enrolled who are subject to ALLO-ASC 3xE7 cells/mL.|Treatment|ALLO-ASC'
+p55
+ssS'NCT02772406'
+p56
+(dp57
+g6
+S'Ulcerative Colitis'
+p58
+sg8
+S'Device|Linked Color Imaging||Experimental group|\n\nDevice|white light imaging||Control group|'
+p59
+ssS'NCT01231217'
+p60
+(dp61
+g6
+S"Crohn's Disease"
+p62
+sg8
+S'Other|Green tea (Camellia sinensis)|Patients are recommended to drink at least 5 cups of green tea per day|green (or white) tea|\n\nOther|Coffee|Patients are recommended to drink as much coffee as they tolerate.|coffee|'
+p63
+ssS'NCT02162862'
+p64
+(dp65
+g6
+S'Sleep Disturbance|Fatigue|Inflammatory Bowel Disease'
+p66
+sg8
+S'Behavioral|Behavioral Counseling||Behavioral Counseling|\n\nDrug|bupropion-SR||bupropion-SR|Wellbutrin'
+p67
+ssS'NCT01828190'
+p68
+(dp69
+g6
+S"Crohn's Disease|Perianal Fistulas"
+p70
+sg8
+S'Other|Hyperbaric oxygen|HBOT will be given for 40 sessions of 2 atmospheres for 90 minutes each session, 5 times a week (2 months). TNF alpha blocker therapy will remain the treatment received before recruitment.|Hyperbaric oxygen|'
+p71
+ssS'NCT02754869'
+p72
+(dp73
+g6
+S'Motility Disorder of Intestine'
+p74
+sg8
+g29
+ssS'NCT02704728'
+p75
+(dp76
+g6
+S"Crohn's Disease"
+p77
+sg8
+S'Other|Thetanix|Thetanix is an encapsulated lyophilised formulation of a pure culture of Bacteroides thetaiotaomicron with excipients.|Thetanix|B. theta\n\nOther|Placebo|Placebo is encapsulated microcrystalline cellulose without Bacteroides thetaiotaomicron.|Placebo|'
+p78
+ssS'NCT02138318'
+p79
+(dp80
+g6
+S'Ulcerative Colitis'
+p81
+sg8
+S'Other|High definition (HD) endoscopy||High definition (HD) endoscopy|\n\nOther|chromoendoscopy||chromoendoscopy|'
+p82
+ssS'NCT01596075'
+p83
+(dp84
+g6
+S'Graft Versus Host Disease'
+p85
+sg8
+S'Drug|Cannabidiol|Cannabidiol will be dissolved in oil to a predefined concentration.Patients developing grade I/II acute GVHD will be treated by IV or oral methylprednisolone 1-2 mg/kg/day and oral cannabidiol at a starting dose of 10 mg twice daily. Doses of cannabidiol can be escalated every day according to clinical response to a maximal dose of 600 mg/day,if no significant drug related side effects present (CTCAE3 grade>2). Cannabidiol will be given up to 90 days.|Oral Cannabidiol|'
+p86
+ssS'NCT01393405'
+p87
+(dp88
+g6
+S'Ulcerative Colitis'
+p89
+sg8
+S'Drug|Methotrexate|Induction period (week 1-16) (Open label):\n25 mg MTX sq once weekly + Steroid taper + 1 mg folic acid daily\nMaintenance period (week 17-48) (Randomization):\n25 mg MTX sq once weekly + 1 mg folic acid daily + 2.4 g mesalamine\nor\nPlacebo sq once weekly + 1 mg folic acid daily + 2.4 g mesalamine|Methotrexate,Placebo|'
+p90
+ssS'NCT02417974'
+p91
+(dp92
+g6
+S"Crohn's Disease"
+p93
+sg8
+S'Biological|Fecal Microbiota Transplant (FMT)|Fecal Microbiota Transplant (FMT)|Fecal Microbiota Transplant (FMT)|Fecal Transplant,Stool Transplant'
+p94
+ssS'NCT02054533'
+p95
+(dp96
+g6
+S"Crohn's Disease|Ulcerative Colitis"
+p97
+sg8
+g29
+ssS'NCT02478944'
+p98
+(dp99
+g6
+S'Inflammatory Bowel Disease'
+p100
+sg8
+S'Device|Manometry|Flexible tube catheter pressure measurement of oesophageal contractions. Measurement without any sedation, transnasal|Inflammatory bowel disease|'
+p101
+ssS'NCT02392286'
+p102
+(dp103
+g6
+S"Crohn's Disease|Inflammatory Bowel Disease"
+p104
+sg8
+S'Drug|Corticosteroid|Subjects will receive prednisone orally; if intravenous corticosteroid required initially they will receive methylprednisolone for the first 3-4 days of therapy.|Weight-based,Fixed dose|Prednisone,Methylprednisolone'
+p105
+ssS'NCT02049502'
+p106
+(dp107
+g6
+S'Ulcerative Colitis Associated Pouchitis'
+p108
+sg8
+S'Biological|biologically active human fecal microbiota|instillation of biologically active human fecal microbiota material via flexible sigmoidoscopy|fecal microbiota transplant|\n\nProcedure|sigmoidoscopy||fecal microbiota transplant|'
+p109
+ssS'NCT01860651'
+p110
+(dp111
+g6
+S'Inflammatory Bowel Disease|Ulcerative Colitis|Crohn\xc2\xb4s Disease'
+p112
+sg8
+S'Behavioral|Web-monitoring|During the E-health intervention, symptoms and FC are monitored closely through the web-program and treatment will be initiated by symptoms and elevated FC.|Web-monitoring|'
+p113
+ssS'NCT02503514'
+p114
+(dp115
+g6
+S'Inflammatory Bowel Diseases|Crohns Disease|Ulcerative Colitis|Colitis'
+p116
+sg8
+g29
+ssS'NCT02777034'
+p117
+(dp118
+g6
+S"Crohn's Disease"
+p119
+sg8
+S'Other|ER|Preoperative protocols\xef\xbc\x9aMultidisciplinary patient information\xe3\x80\x81no bowel preparation\xe3\x80\x81no fasting\xef\xbc\x88drink 10% glucose 1000 at 21\xef\xbc\x9a30 night before the surgery\xef\xbc\x89.\nIntraoperative protocols\xef\xbc\x9aLaparoscopic standardized technique\xe3\x80\x81fluid restriction (max 500 ml/h)\xe3\x80\x81no abdominal drains.\nPostoperative protocols\xef\xbc\x9ano nasogastric tube\xe3\x80\x81early solid dietary intake and mobilization\xe3\x80\x81urinary catheter removal on postoperative day 1\xe3\x80\x81restrictive fluid management\xef\xbc\x88<2000ml/d\xef\xbc\x89.|Enhanced Recovery|Enhanced Recovery\n\nOther|UR|Preoperative protocols\xef\xbc\x9aPatient information\xe3\x80\x81Mechanical bowel preparation\xe3\x80\x81Fasting since midnight before operation.\nIntraoperative protocols\xef\xbc\x9aLaparoscopic standardized technique\xe3\x80\x81fluid overload (over 500 ml/h) \xe3\x80\x81place abdominal drains.\nPostoperative protocols\xef\xbc\x9ano nasogastric tube\xe3\x80\x81mobilization from postoperative day 1\xe3\x80\x81fluids and solids intake after first passage of stool\xe3\x80\x81Urinary catheter removal on postoperative day 2/3\xe3\x80\x81no restrictive fluid management\xef\xbc\x88>2000ml/d\xef\xbc\x89.|Unenhanced Recovery|Un-Enhanced Recovery'
+p120
+ssS'NCT02368717'
+p121
+(dp122
+g6
+S'Ulcerative Colitis'
+p123
+sg8
+S'Drug|Mesalazine Enema||Mesalazine|PENTASA\xc2\xae Enema\n\nDrug|Placebo Enema||Placebo|'
+p124
+ssS'NCT02390622'
+p125
+(dp126
+g6
+S'Methicillin-Resistant Staphylococcus Aureus'
+p127
+sg8
+S'Other|Fecal microbiota transplantation|bacteria liquid from 60g fecal was infusion via nasointestinal tube for three days|FMT treatment|'
+p128
+ssS'NCT00609752'
+p129
+(dp130
+g6
+S'Crohn Disease'
+p131
+sg8
+S'Drug|prednisolone|Standard treatment regimens based on body weight will be used (approximately 2 mg per kg), with a stepwise dose reduction over a 10-14 week period.|1|\n\nDietary Supplement|Alicalm (polymeric liquid formula)|Subjects will receive all of their nutritional requirements in the form of a nutritionally balanced polymeric feed, volume based on EAR for age. Duration of 5 to 8 weeks with subjects returning to a "normal" unrestricted diet by 10 weeks.|2|Alicalm (SHS International Ltd.)'
+p132
+ssS'NCT02465944'
+p133
+(dp134
+g6
+S"Crohn's Disease"
+p135
+sg8
+S'Drug|FFP104|Three intravenous infusions of FFP104 over 15 days (d0, d7 and d14)|FFP104 - 2.5 mg/kg,FFP104 - 5.0 mg/kg|\n\nDrug|Placebo|Three intravenous infusions of 0.9% Saline over 15 days (d0, d7 and d14)|Placebo|'
+p136
+ssS'NCT01728870'
+p137
+(dp138
+g6
+S"Crohn's Disease"
+p139
+sg8
+S'Other|Unique Diet+Partial Enteral Nutrition|Modulen - liquid dietary formula|Unique Diet+Partial Enteral Nutrition|Modulen, Nestle\n\nOther|Exclusive Enteral Nutrition (Modulen)||Exclusive Enteral Nutrition (Modulen)|Modulen, Nestle'
+p140
+ssS'NCT02453776'
+p141
+(dp142
+g6
+S'Inflammatory Bowel Disease'
+p143
+sg8
+S'Drug|PRECISION dosing Infliximab|Patients in the PRECISION dosing arm will recieve model based dosing, whereas proactive adjustments in treatment can be made by measuring the Infliximab concentration.|PRECISION dosing|'
+p144
+ssS'NCT02289417'
+p145
+(dp146
+g6
+S'Ulcerative Colitis'
+p147
+sg8
+S'Drug|Apremilast||Apremilast 30 mg PO BID,Apremilast 40 mg PO BID|CC-10004; Otezla\n\nDrug|Placebo||Placebo BID|'
+p148
+ssS'NCT01653054'
+p149
+(dp150
+g6
+S'IBD'
+p151
+sg8
+S'Procedure|Anal Pap Smear, HPV DNA Testing|Anal Pap Smears and HPV DNA testing will be performed on all subjects.|IBD patients ON Immunosuppression,IBD Patients OFF Immunosuppression|'
+p152
+ssS'NCT02463916'
+p153
+(dp154
+g6
+S'Inflammatory Bowel Disease|Rheumatoid Arthritis'
+p155
+sg8
+S'Other|Exercise|8 week structured exercise programme|Immediate exercise,Delayed exercise|'
+p156
+ssS'NCT01244386'
+p157
+(dp158
+g6
+S"Inflammatory Bowel Disease|Crohn's Disease|Ulcerative Colitis"
+p159
+sg8
+g29
+ssS'NCT00883077'
+p160
+(dp161
+g6
+S'Inflammatory Bowel Disease|Ulcerative Colitis|Irritable Bowel Syndrome'
+p162
+sg8
+g29
+ssS'NCT02222584'
+p163
+(dp164
+g6
+S'Inflammatory Bowel Disease'
+p165
+sg8
+g29
+ssS'NCT00731809'
+p166
+(dp167
+g6
+S"Crohn's Disease"
+p168
+sg8
+S'Radiation|FDG PET CT|FDG PET CT|1|'
+p169
+ssS'NCT02038920'
+p170
+(dp171
+g6
+S"Crohn's Disease"
+p172
+sg8
+S'Drug|Vedolizumab|Vedolizumab intravenous injection|Vedolizumab 300mg|MLN0002\n\nDrug|Vedolizumab placebo|Vedolizumab placebo|Placebo|'
+p173
+ssS'NCT02733276'
+p174
+(dp175
+g6
+S'Fatigue|Inflammatory Bowel Disease'
+p176
+sg8
+S'Other|electroacupuncture|Electroacupuncture: Using an electroacupuntor with different frequencies during 20 minutes. Needles are connected to the electrodes.|Electroacupuncture|\n\nOther|Sham: Electroacupuncture sham|Sham comparator (Electroacupuncture sham): Using an electroacupuntor with different frequencies during 20 minutes. Needles are connected to the electrodes.|Electroacupuncture sham|'
+p177
+ssS'NCT02193685'
+p178
+(dp179
+g6
+S'Hirschsprung Disease|Enterocolitis'
+p180
+sg8
+g29
+ssS'NCT02619552'
+p181
+(dp182
+g6
+S"Crohn's Disease|IBD"
+p183
+sg8
+S'Drug|Anti-TNF|All participants in this arm receive an anti-TNF for the treatment of luminal CD. They are required to undergo study visits at baseline, 2 months, and 6 months in addition to any other routine visits. Sexual function, body image, disease activity, quality of life, and depression scores will be measured at baseline and at each study visit during the 6-month study.|Anti-TNF (Remicade, Humira or Cimzia) for luminal CD|Remicade, Humira, Cimzia\n\nDrug|Anti-TNF|All participants in this arm receive an anti-TNF for the treatment of perianal CD. They are required to undergo study visits at baseline, 2 months, and 6 months in addition to any other routine visits. Sexual function, body image, disease activity, quality of life, and depression scores will be measured at baseline and at each study visit during the 6-month study.|Anti-TNF (Remicade, Humira or Cimzia)for perianal CD|Remicade, Humira, Cimzia\n\nDrug|Steroids|All participants in this arm receive steroids for the treatment of luminal CD. They are required to undergo study visits at baseline, 2 months, and 6 months in addition to any other routine visits. Sexual function, body image, disease activity, quality of life, and depression scores will be measured at baseline and at each study visit during the 6-month study.|Steroid (Prednisone or budesonide) for luminal CD|Prednisone, Budesonide'
+p184
+ssS'NCT02156557'
+p185
+(dp186
+g6
+S'Colon Polyps|Colorectal Cancer|Inflammatory Bowel Disease (IBD)'
+p187
+sg8
+S'Biological|Colon KCC Heptapeptide|Your colonoscopy will happen as it would normally, including the medications, the colonoscope, and any clinically indicated biopsies or polypectomies.\nThe fluorescent peptide will be sprayed on to the walls of your colon around the areas that might have a polyp, areas of IBD, or another area of interest. Your doctor will select one area to apply the peptide in your colon. The peptide comes in a single-use sealed vial from the investigational pharmacy. Sterile saline (salt-water) is added to the vial. The powder is mixed well and pulled into a syringe. The peptide is then "injected" into a special, single-use "sprayer", like a garden hose, that fits down the endoscope channel. The peptide will be sprayed in your colon. This is part of the study.\nThe endoscopist will take pictures of the area before and after the peptide spraying. They will use the camera that is part of the colonoscope.\nWe will obtain copies of your endoscopy report and any pathology reports.|peptide application|'
+p188
+ssS'NCT02730325'
+p189
+(dp190
+g6
+S'Clostridium Difficile'
+p191
+sg8
+S'Other|Serum-derived bovine immunoglobulin/protein isolate (SBI)||SBI 10 g BID|\n\nOther|Placebo||Placebo BID|'
+p192
+ssS'NCT02542904'
+p193
+(dp194
+g6
+S'Postoperative Disease Recurrence|Crohns Disease'
+p195
+sg8
+S'Procedure|mesenteric excision||LME,EME|'
+p196
+ssS'NCT01836289'
+p197
+(dp198
+g6
+S"Crohn's Disease|Crohn Disease"
+p199
+sg8
+S'Drug|High-dose Cyclophosphamide||High-dose Cyclophosphamide|Endoxan\xc2\xae,Cytoxan\xc2\xae,CTX,Neosar\xc2\xae,Procytox\xc2\xae,Revimmune\xe2\x84\xa2'
+p200
+ssS'NCT00793130'
+p201
+(dp202
+g6
+S'Ulcerative Colitis'
+p203
+sg8
+S'Dietary Supplement|Coltect|Two tablets twice daily (BID) during the 2 months of the study. Each tablet contains 500mg Curcumin, 250mg Green tea and 100mcg Selenomethionine.|Coltect|'
+p204
+ssS'NCT00360022'
+p205
+(dp206
+g6
+S"Inflammatory Bowel Diseases|Crohn's Disease|Ulcerative Colitis"
+p207
+sg8
+S'Other|Transition program|Both the pediatric GI specialist and the adult GI specialist will see the patient together at 2 different visits. The first joint visit is lead by the pediatric MD and the second joint visit is lead by the adult MD.|B|'
+p208
+ssS'NCT00290524'
+p209
+(dp210
+g6
+S'Colorectal Neoplasms|Crohn Disease'
+p211
+sg8
+S'Behavioral|Oral alimentation started 12 hours after colorectal surgery|||'
+p212
+ssS'NCT02173002'
+p213
+(dp214
+g6
+S'Inflammatory Bowel Disease'
+p215
+sg8
+S'Other|myIBDcoach||myIBDcoach|\n\nOther|Standard care||Standard care|'
+p216
+ssS'NCT01731665'
+p217
+(dp218
+g6
+S"Crohn's Disease|Ulcerative Colitis|Epidemiology|Korea"
+p219
+sg8
+g29
+ssS'NCT02311660'
+p220
+(dp221
+g6
+S"Crohn's Disease"
+p222
+sg8
+S'Device|Vagus Nerve Stimulation Device|Cyberonics VNS System|vagus nerve stimulation|'
+p223
+ssS'NCT02370056'
+p224
+(dp225
+g6
+S'Ulcerative Colitis'
+p226
+sg8
+S'Device|The Olympus HD 3D Laparoscopic Surgical Video System||3D,2D|'
+p227
+ssS'NCT01477320'
+p228
+(dp229
+g6
+S'Gastrointestinal Hemorrhage|Clostridium Difficile Colitis'
+p230
+sg8
+S'Drug|Pantoprazole 40 mg IV daily and tube feed.|Patients randomized to the control group "active Comparator" will receive tube feed plus an Pantoprazole 40 mg IV daily.|Pantoprazole 40mg IV daily and tube feed|Tube feed formula:(Vital AF 1.2 Cal(TM),Abbott,Columbus,OH)\n\nOther|Placebo and tube feed|Patients randomized to Placebo group "placebo Comparator" will receive tube feed plus an Placebo.|Placebo and tube feed.|Tube feed formula:(Vital AF 1.2 Cal(TM),Abbott,Columbus,OH)'
+p231
+ssS'NCT01504048'
+p232
+(dp233
+g6
+S'Chronic Diarrhoea|Lymphocytic Colitis|Collagenous Colitis'
+p234
+sg8
+S'Procedure|Colonoscopy with Indigo-Carmine Chromoendoscopy|Colonoscopy with chromoendoscopy using 0.2-0.5% Indigo-Carmine solution sprayed in five areas of the large intestine: Cecum, ascending colon, transverse colon, descending colon and rectum. Pictures are taken before and after dye-spraying and biopsies are collected from all segments of the large intestine and rectum.|Chromoendoscopy|Indigo-Carmine'
+p235
+ssS'NCT02345733'
+p236
+(dp237
+g6
+S'Ulcerative Colitis (UC)'
+p238
+sg8
+S'Other|Ulcerative Colitis Diet|we have postulated that a diet that we developed that reduces exposure to dietary ingredients that allow sulfide reducing bacteria to thrive, or that impair the mucous layer, coupled with dietary products that enhance butyrate production, could induce remission in UC without involving additional immune suppression.|Ulcerative Colitis Diet|\n\nDrug|Antibiotic cocktail|We have postulating that antibiotic therapy can alter the microbiota clinically. Controlling the microbiota by antibiotics may allow for control of the disease without immune suppression|Antibiotic Treatment|\xe2\x80\xa2Doxycyclin, amoxicillin and metronidazole'
+p239
+ssS'NCT01505842'
+p240
+(dp241
+g6
+S"Ulcerative Colitis|Crohn's Colitis"
+p242
+sg8
+S'Procedure|Colonoscopy with Indigo-Carmine chromoendoscopy|Colonoscopy with chromoendoscopy using 0.2-0.5% Indigo-Carmine solution sprayed in the whole colon and rectum plus 32 random biopsies plus biopsies from suspicious areas|Colonoscopy with chromoendoscopy|Indigo-Carmine\n\nProcedure|Conventional white-light colonoscopy|White light colonoscopy plus 32 random biopsies plus biopsies from suspicious areas|Conventional colonoscopy|'
+p243
+ssS'NCT02526251'
+p244
+(dp245
+g6
+S'Inflammatory Bowel Disease'
+p246
+sg8
+S'Other|observational|No intervention||'
+p247
+ssS'NCT02291523'
+p248
+(dp249
+g6
+S'Ulcerative Colitis'
+p250
+sg8
+S'Biological|Fecal Microbial Transplant|Fecal Transplant via Colonoscopy.|Patient Stool Transplant,Donor Stool Transplant|FMT'
+p251
+ssS'NCT02463045'
+p252
+(dp253
+g6
+S'Ulcerative Colitis'
+p254
+sg8
+S'Drug|TOP1288||TOP1288 1mg (or placebo),TOP1288 10mg (or placebo),TOP1288 100mg (or placebo),TOP1288 200mg single dose or placebo,TOP1288 400mg dose or placebo,TOP1288 A mg or placebo,TOP1288 B mg or placebo,TOP1288 C mg or placebo,TOP1288 D mg or placebo,TOP1288 Xmg or placebo|TOP1288 Placebo'
+p255
+ssS'NCT01914887'
+p256
+(dp257
+g6
+S'Ulcerative Colitis'
+p258
+sg8
+S'Drug|Allogeneic adipose tissue-derived mesenchymal stem cells|The cells will be given in different sites within the affected colonic submucosa at a total dose of 60 million cells with the use of a colonoscope.|allogeneic ASCs|Cx-601 (company code)'
+p259
+ssS'NCT02267694'
+p260
+(dp261
+g6
+S'Ulcerative Colitis'
+p262
+sg8
+S'Drug|Freeze-dried black raspberry powder||Black raspberry powder|'
+p263
+ssS'NCT00815061'
+p264
+(dp265
+g6
+S"Ulcerative Colitis|Crohn's Disease"
+p266
+sg8
+g29
+ssS'NCT02678052'
+p267
+(dp268
+g6
+S"Colitis, Ulcerative|Crohn's Disease"
+p269
+sg8
+S'Drug|Vedolizumab|Vedolizumab exposure|Cohort 2: UC/CD Prospective Cohort|Entyvio\n\nBiological|Other Biological Agent|Other Biological Agent exposure|Cohort 2: UC/CD Prospective Cohort|'
+p270
+ssS'NCT01418131'
+p271
+(dp272
+g6
+S'Ulcerative Colitis'
+p273
+sg8
+S'Drug|Rectal tacrolimus|Rectal tacrolimus made as an ointment at a concentration of 0.5mg/ml with 3 mls will be applied rectally twice a day|Rectal tacrolimus|calcineurin inhibitor\n\nDrug|Placebo|Placebo|Rectal Placebo|Control Arm'
+p274
+ssS'NCT02611817'
+p275
+(dp276
+g6
+S'Crohn Disease'
+p277
+sg8
+S'Drug|Vedolizumab SC 108||Vedolizumab SC 108 mg Maintenance Arm|\n\nDrug|Placebo SC||Placebo Maintenance Arm|\n\nDrug|Vedolizumab IV 300 mg||Vedolizumab SC 108 mg Maintenance Arm,Placebo Maintenance Arm|'
+p278
+ssS'NCT02579733'
+p279
+(dp280
+g6
+S'Ulcerative Colitis'
+p281
+sg8
+S'Drug|Azathioprine||Azathioprine|\n\nDrug|Placebo||Sugar pill|'
+p282
+ssS'NCT00805428'
+p283
+(dp284
+g6
+S'Ulcerative Colitis'
+p285
+sg8
+g29
+ssS'NCT02453607'
+p286
+(dp287
+g6
+S"Inflammatory Bowel Disease|Crohn's Disease"
+p288
+sg8
+S'Drug|Infliximab||CD Monotherapy,CD Combo therapy|\n\nDrug|thiopurine||CD Combo therapy|'
+p289
+ssS'NCT02084550'
+p290
+(dp291
+g6
+S'Ulcerative Colitis'
+p292
+sg8
+S'Dietary Supplement|Vaminolac|Vaminolac with an amino acid content corresponding humane breast milk.|Vaminolac|\n\nOther|Saline|Intravenous isotonic saline with a sodium chloride content of 9mg/ml.|Saline|'
+p293
+ssS'NCT01470599'
+p294
+(dp295
+g6
+S"Crohn's Disease"
+p296
+sg8
+S'Drug|CP-690,550|ORAL TABLET, TWICE DAILY|5mg BID|\n\nDrug|CP-690,550|ORAL TABLETS, TWICE DAILY|10mg BID|'
+p297
+ssS'NCT02522767'
+p298
+(dp299
+g6
+S'Ulcerative Colitis'
+p300
+sg8
+S'Drug|Mesalamine||Mesalamine|Mesalazine,Pentasa\n\nDrug|Placebo||Placebo|'
+p301
+ssS'NCT02447302'
+p302
+(dp303
+g6
+S'Ulcerative Colitis'
+p304
+sg8
+S'Drug|APD334||APD334 Low Dose,APD334 High Dose|\n\nDrug|Placebo||Placebo|'
+p305
+ssS'NCT01954875'
+p306
+(dp307
+g6
+S'Neurodegenerative Diseases|Amyotrophic Lateral Sclerosis|Multiple Sclerosis|Parkinson Disease'
+p308
+sg8
+g29
+ssS'NCT02085083'
+p309
+(dp310
+g6
+S'Inflammatory Bowel Disease|Transition From Pediatric to Adult Care.'
+p311
+sg8
+S'Behavioral|Regular telephone and email access to an Inflammatory Bowel Disease Nurse|The IBD pediatric-adult transition nurse will send an email each month containing:\nBrief Questionnaire: A link to a secured website will be provided where participants will respond to a questionnaire.\nDirect Nurse Contact: The email will also provide the option to correspond directly to the nurse.\nEducational module: Every other month, we will include in the email another link to an optional educational module that will be part of a curriculum to facilitate transition readiness.\nMyHealth Passport\nStudy Questionnaire: A personalized link to a more comprehensive study questionnaire similar to the baseline questionnaire will be emailed in the 6th and 12th (final) email.|Regular telephone and email access to an IBD Nurse|\n\nBehavioral|Minimal Intervention Arm|Patients randomized to the control group will have receive email based questionnaires and information relating to the MyHealth Passport application. This intervention is not expected to significantly improve outcomes.|Minimal Intervention|'
+p312
+ssS'NCT02255370'
+p313
+(dp314
+g6
+S"Crohn's Disease"
+p315
+sg8
+S'Drug|Curcumin|subjects will be randomized into two arms; they will be given either placebo or curcumin 3g/d per os plus thiopurines during 6 months in a double-blind manner. Rutggerts endoscopic score at 6 months will be the main judgment criteria|CURCUMIN,PLACEBO|placebo'
+p316
+ssS'NCT02165215'
+p317
+(dp318
+g6
+S'Ulcerative Colitis'
+p319
+sg8
+S'Drug|Etrolizumab|105 mg will be administered by subcutaneous injection every 4 weeks (q4w).|Etrolizumab (Maintenance Phase),Etrolizumab (Open-label Induction Phase)|\n\nDrug|Placebo|Given by subcutaneous injection every 4 weeks (q4w).|Placebo (Maintenance Phase)|'
+p320
+ssS'NCT02027727'
+p321
+(dp322
+g6
+S'Inflammatory Bowel Diseases'
+p323
+sg8
+S'Other|No Intervention|no intervention- tihs is an observational study|No intervention|'
+p324
+ssS'NCT00292175'
+p325
+(dp326
+g6
+S'Ulcerative Colitis'
+p327
+sg8
+S'Procedure|Narrow Band Imaging|||\n\nProcedure|colonoscopy|||'
+p328
+ssS'NCT01974869'
+p329
+(dp330
+g6
+S'Inflammatory Bowel Diseases'
+p331
+sg8
+S'Drug|Anti-tumor necrosis factor alpha agents|Treatment with biologics|Inflammatory bowel diseases-1|Biologics'
+p332
+ssS'NCT02513459'
+p333
+(dp334
+g6
+S'Crohn Disease'
+p335
+sg8
+S'Drug|BI 655066|dose regimen 1|BI 655066|\n\nDrug|BI 655066|dose regimen 2|BI 655066|'
+p336
+ssS'NCT02546154'
+p337
+(dp338
+g6
+S'Iron Deficiency Anaemia'
+p339
+sg8
+S'Drug|10% Iron Isomaltoside 1000|Standard clinical practice and following the Monofer\xc2\xae label (SPC)|CKD, iron deficiency anaemia,IBD, iron deficiency anaemia|Monofer\xc2\xae'
+p340
+ssS'NCT02717117'
+p341
+(dp342
+g6
+S'Healthy'
+p343
+sg8
+S'Other|Soup meal|Soup meal as above|Feeding|'
+p344
+ssS'NCT00383344'
+p345
+(dp346
+g6
+S'Crohn Disease'
+p347
+sg8
+S'Procedure|FDG PET/CT|||'
+p348
+ssS'NCT02343601'
+p349
+(dp350
+g6
+S'Polyp of Large Intestine|Colorectal Neoplasms|Crohn Disease'
+p351
+sg8
+S'Device|Photoplethysmography|Use Photoplethysmography for hemodynamic optimization during colorectal perioperative period|Photoplethysmography group|'
+p352
+ssS'NCT02647866'
+p353
+(dp354
+g6
+S'Ulcerative Colitis|Digestive System Diseases|Colitis, Ulcerative|Colitis|Gastrointestinal Diseases|Inflammatory Bowel Diseases|Intestinal Diseases|Colonic Diseases|Autoimmune Disease|Abdominal Pain'
+p355
+sg8
+S'Drug|KHK4083|IV Infusion|KHK4083|Antibody\n\nDrug|Placebo|IV Infusion|Placebo|'
+p356
+ssS'NCT02130362'
+p357
+(dp358
+g6
+S"Crohn's Disease"
+p359
+sg8
+g29
+ssS'NCT02610569'
+p360
+(dp361
+g6
+S'Ulcerative Colitis'
+p362
+sg8
+S'Device|standard endoscopy|standard endoscopy will be either colonoscopy or rectosigmoidoscopy|standart endoscopy|\n\nDevice|PillCamCOLON (C2)|PillCamCOLON (C2) is a colon video-capsule|PillCamCOLON (C2)|'
+p363
+ssS'NCT02357537'
+p364
+(dp365
+g6
+S'Colitis, Ulcerative'
+p366
+sg8
+S'Behavioral|Combined Anti-inflammatory Diet (CAID)|The CAID requires participants to modify their diet to include certain types of foods that may have anti-inflammatory properties. Participants on the CAID will be required to abstain from red meat and alcoholic beverages.|Traditional,Remote|'
+p367
+ssS'NCT02517151'
+p368
+(dp369
+g6
+S'Chronic Fatigue|Inflammatory Bowel Disease'
+p370
+sg8
+S'Drug|Ferric carboxymaltose||Ferric carboxymaltose|Ferinject\n\nDrug|Placebo||Placebo|Normal saline'
+p371
+ssS'NCT02161640'
+p372
+(dp373
+g6
+S'Inflammatory Bowel Disease|Crohn Disease|Ulcerative Colitis'
+p374
+sg8
+g29
+ssS'NCT02118584'
+p375
+(dp376
+g6
+S'Ulcerative Colitis'
+p377
+sg8
+S"Drug|etrolizumab|105 mg administered subcutaneously every 4 weeks for up to 7 years or until either commercial availability or the Sponsor's decision to terminate the study.|Open-label Extension|"
+p378
+ssS'NCT02383953'
+p379
+(dp380
+g6
+S"Inflammatory Bowel Disease|Crohn's Disease|Ulcerative Colitis"
+p381
+sg8
+g29
+ssS'NCT02707068'
+p382
+(dp383
+g6
+S'Inflammatory Bowel Disease'
+p384
+sg8
+S"Behavioral|Quality Of LIfe Tool for IBD (QOLITI)|The cognitive-behavioural therapy (CBT)-inspired manual will contain several chapters each of which addresses a different topic with information, guidance in setting goals for behaviour change and accompanying tasks to aid implementation which will be completed at home in the participant's own time. Key themes are likely to include symptom management, dealing with social implications of the disease and interacting effectively with healthcare professionals among others. Each chapter will address a theme providing information, sign posting to appropriate organisations, step-by-step tasks and quotes from pwIBD among others, drawing on relevant therapeutic approaches for self-management including CBT and certain elements of Acceptance and Commitment Therapy.|QOLITI|"
+p385
+ssS'NCT02426762'
+p386
+(dp387
+g6
+S'Complications of Surgical Procedures|Surgical Site Infection|Gastric Cancer|Colorectal Cancer|Gastrointestinal Stromal Tumor|Inflammatory Bowel Disease|Diverticula'
+p388
+sg8
+S'Procedure|Laparoscopic surgery|Various laparoscopic operations are performed for participants. Once all surgical procedures are successfully applied, surgical wounds which are associated with laparoscopic surgery would be sealed by a quick sealant. In all, the following surgical wounds would be left:\n4-5 trocar-produced incisions (5/10mm, minor incision)\n1 sample-retrieval incision (4-5cm, small incision)|Sealant skin closure|\n\nDevice|Skin sealant|After surgery, a quick skin sealant is applied in two layers of each wound to achieve skin closure. The sealant would be smeared twice on the wound area with 30 seconds of dry time required to form a firm seal.|Sealant skin closure|Skin adhesive'
+p389
+ssS'NCT02392221'
+p390
+(dp391
+g6
+S'Pediatric Inflammatory Bowel Disease'
+p392
+sg8
+g29
+ssS'NCT00933296'
+p393
+(dp394
+g6
+S'Schnitzler Syndrome'
+p395
+sg8
+g29
+ssS'NCT02390726'
+p396
+(dp397
+g6
+S'Ulcerative Colitis, Active Moderate'
+p398
+sg8
+S'Biological|Fecal Microbiota Transplant||Treatment|\n\nBiological|Placebo||Control|'
+p399
+ssS'NCT02538354'
+p400
+(dp401
+g6
+S'Crohn Disease'
+p402
+sg8
+S'Dietary Supplement|Riboflavin supplementation|Supplementation of the normal diet with 1 capsule of 100 mg riboflavin (vitamin B2) during three weeks|Riboflavin supplementation in quiescent disease,Riboflavin supplementation in active disease|vitamin B2 supplementation'
+p403
+ssS'NCT02060318'
+p404
+(dp405
+g6
+S'Crohn Disease'
+p406
+sg8
+S'Drug|Infliximab|The patients are included in the study when the decision to treat with Infliximab is already made. This study is observational, and all treatment and clinical follow-up are according to national guidelines.|Infliximab|'
+p407
+ssS'NCT02445690'
+p408
+(dp409
+g6
+S'Crohn Disease|Blood Clot|Thrombosis'
+p410
+sg8
+g29
+ssS'NCT01881490'
+p411
+(dp412
+g6
+S"Crohn's Disease"
+p413
+sg8
+S"Device|MRE|Developing the Pediatric Crohn's Disease Intestinal Damage Score (PECDID score) and the Pediatric MRE-Based Activity Index (P-MECAI)|Group 1,Group 2|MRI,Pelvic MRI"
+p414
+ssS'NCT02559037'
+p415
+(dp416
+g6
+S"Crohn's Disease"
+p417
+sg8
+S"Device|Acupuncture-moxibustion|Acupuncture is puncture the needle into specific part of the body according to a certain angle, using specific means to cause the De-qi sensation, and maintain a certain amount of time.\nMild-warm moxibustion is a type of moxa stick moxibustion that is performed by holding an ignited moxa stick a certain distance above the patient's skin, keeping the spot warm and making it reddened, but not burnt.The temperature maintained at 43 \xc2\xb1 1\xe2\x84\x83\xe3\x80\x82|Acupuncture-moxibustion group|\n\nDevice|Placebo acupuncture-moxibustion|Placebo acupuncture is puncture the needle into specific part of the body according to a certain angle, without using specific means to cause the De-qi sensation, and maintain a certain amount of time.\nPlacebo mild-warm moxibustion is a type of moxa stick moxibustion that is performed by holding an ignited moxa stick a certain distance above the patient's skin (farther than the real moxibustion), keeping the temperature maintained at 37 \xc2\xb1 1\xe2\x84\x83\xe3\x80\x82|Placebo acupuncture-moxibustion group|"
+p418
+ssS'NCT02330653'
+p419
+(dp420
+g6
+S'Inflammatory Bowel Diseases|Ulcerative Colitis'
+p421
+sg8
+S'Biological|Fecal Microbiota Transplant|The study intervention consists of frozen, bottled or encapsulated fecal microbiota preparations that have been screened and prepared to a uniform and rigorous standards by the Microbiome Health Research Institute Inc. FMT is performed by patients receiving a retention enema and swallowing capsules, introducing stool from a healthy donor into their intestinal tract.|Fecal Microbiota Transplant|Screened, healthy human donor stool\n\nBiological|Placebo|Placebo administration will consist of both a placebo retention enema and placebo capsules.|Placebo|'
+p422
+ssS'NCT01590043'
+p423
+(dp424
+g6
+S'Inflammatory Bowel Diseases'
+p425
+sg8
+S'Other|Salivary samples|Each participant will give a sample of saliva through spitting for 5 minutes in a sterile tube.|Control,Inflammatory bowel disease,Abdominal pain|Salivary Analysis'
+p426
+ssS'NCT01417728'
+p427
+(dp428
+g6
+S"Crohn's Disease|Ulcerative Colitis"
+p429
+sg8
+g29
+ssS'NCT02442037'
+p430
+(dp431
+g6
+S'Ulcerative Colitis'
+p432
+sg8
+S'Biological|UCMSC group|Human umbilical cord MSCs are transplanted three times by intravenous infusion(1\xc3\x9710^6/kg) ,once every week\xef\xbc\x8ca total of three times.|UCMSC group|\n\nOther|Control group(Normal saline)|Normal saline in same volume as MSCs are transplanted to patients.|Control group(Normal saline)|'
+p433
+ssS'NCT02413047'
+p434
+(dp435
+g6
+S"Inflammatory Bowel Disease|Ulcerative Colitis|Crohn's Disease"
+p436
+sg8
+S'Drug|Azathioprine|Medication will be given in pill form to patients to take daily as long as the patient has not been intolerant to it in the past.|Immunomodulator|Imuran\n\nDrug|6 mercaptopurine|Medication will be given in pill form to patients to take daily as long as the patient has not been intolerant to it in the past as an alternative to imuran|Immunomodulator|\n\nDrug|Methotrexate|Medication will be given in subcutaneous injection form once a week if the patient cannot take imuran or 6 mercaptopurine.|Immunomodulator|'
+p437
+ssS'NCT02365649'
+p438
+(dp439
+g6
+S"Crohn's Disease"
+p440
+sg8
+S'Drug|ABT-494|Oral Dosing|Induction Period ABT-494 Low Dose,Induction Period ABT-494 Low/Medium Dose,Induction Period ABT-494 Twice Daily Medium/High Dose,Induction Period ABT-494 High Dose,Induction Period ABT-494 Once Daily Medium/High Dose,Extension Phase ABT-494 Low Dose,Extension Phase ABT-494 Medium Dose,Extension Phase ABT-494 High Dose|\n\nDrug|Placebo|Oral Dosing|Induction Period Placebo|'
+p441
+ssS'NCT01908283'
+p442
+(dp443
+g6
+S'Inflammatory Bowel Diseases|Crohn Disease|Colitis, Ulcerative'
+p444
+sg8
+S'Biological|13-valent pneumococcal conjugated vaccine (PCV13)|Immunization with 1 dose of PCV13 (=0.5ml) intra-muscular|Patient non immunosuppressed,Patient immunosuppressed|Streptococcus pneumoniae conjugated vaccine,PCV13 (Prevenar13\xc2\xae, Pfizer AG, Zurich),Swissmedic authorization number 60129'
+p445
+ssS'NCT02763293'
+p446
+(dp447
+g6
+S'Crohn\xc2\xb4s Disease'
+p448
+sg8
+S"Other|Manual Therapy|Non-manipulative treatment osteopathic techniques combined direct and indirect soft appropriate in patients with Crohn's disease|Manual Therapy|"
+p449
+ssS'NCT02536404'
+p450
+(dp451
+g6
+S'Ulcerative Colitis'
+p452
+sg8
+S'Drug|APD334||APD334 High Dose|\n\nDrug|Placebo||Placebo|'
+p453
+ssS'NCT02131168'
+p454
+(dp455
+g6
+S'Inflammatory Bowel Diseases|Crohn Disease|Ulcerative Colitis'
+p456
+sg8
+g29
+ssS'NCT01820247'
+p457
+(dp458
+g6
+S"Crohn's Disease"
+p459
+sg8
+S'Drug|enteral nutrition||enteral nutrition,tripterygium glycosides and enteral nutrition|\n\nDrug|Tripterygium glycosides||tripterygium glycosides,tripterygium glycosides and enteral nutrition|'
+p460
+ssS'NCT02264275'
+p461
+(dp462
+g6
+S'Ulcerative Colitis|Crohn Disease|Depression|Sleep|Quality of Life|Motor Activity'
+p463
+sg8
+S'Behavioral|Aerobic Exercise Training|The aerobic exercise training uses a television attached to a Nintendo Wii videogame console with a dance game to be played by participants on 5 days per week using a ramped-duration schedule (from 10-30 minutes of moderate physical activity daily).|Aerobic Exercise Training|Nintendo Wii,Exergame,Dance Videogame'
+p464
+ssS'NCT01817426'
+p465
+(dp466
+g6
+S'Crohn Disease'
+p467
+sg8
+S'Drug|Infliximab||infliximab|Remicade\n\nOther|Placebo||Placebo|'
+p468
+ssS'NCT02538757'
+p469
+(dp470
+g6
+S"Arthritis|Rheumatoid Arthritis|Psoriatic Arthritis|Psoriasis|Ankylosing Spondylitis|Enteropathic Arthritis|Crohn's Disease|Inflammatory Arthritis"
+p471
+sg8
+S'Biological|Herpes Zoster Vaccine||Zoster Vaccine Live (Zostavax)|Zostavax\n\nDrug|Placebo||Placebo (Normal Saline)|Normal Saline'
+p472
+ssS'NCT02499783'
+p473
+(dp474
+g6
+S"Crohn's Disease"
+p475
+sg8
+S'Biological|Adalimumab|Subjects will be given subcutaneous injections of adalimumab.|Subjects receiving maintenance dose starting at Week 4,Subjects receiving maintenance dose starting at Week 8|\n\nOther|Placebo|Subjects will be given subcutaneous injections of placebo|Subjects receiving maintenance dose starting at Week 4,Subjects receiving maintenance dose starting at Week 8|'
+p476
+ssS'NCT02426567'
+p477
+(dp478
+g6
+S"Crohn's Disease|Dietary Modification"
+p479
+sg8
+S"Other|Exclusive Enteral Nutrition (EEN)|One week course of an isocaloric exclusive milk-based diet|Healthy Adult Participants A,Healthy Adult Participants B|\n\nOther|Crohn's Disease TReatment-with-EATing diet (CD-TREAT diet)|One week course of an isocaloric, exclusion food-based diet|Healthy Adult Participants A,Healthy Adult Participants B|"
+p480
+ssS'NCT00790478'
+p481
+(dp482
+g6
+S'Ulcerative Colitis'
+p483
+sg8
+S'Dietary Supplement|Melatonin|Study Pill (5 mg/d) taken once daily, preferably an hour before bedtime, for 12 weeks.|Melatonin|\n\nOther|Placebo|Study Placebo taken once daily, preferably an hour before bedtime, for 12 weeks.|Placebo|'
+p484
+ssS'NCT02631967'
+p485
+(dp486
+g6
+S'Crohn Disease'
+p487
+sg8
+S'Procedure|Kono anastomosis|Kono anastomosis|Kono anastomosis|\n\nProcedure|Stapled side-to-side anastomosis|Stapled side-to-side anastomosis|Stapled side-to-side anastomosis|'
+p488
+ssS'NCT01126931'
+p489
+(dp490
+g6
+S'Cancer'
+p491
+sg8
+g29
+ssS'NCT02624414'
+p492
+(dp493
+g6
+S"Crohn's Disease"
+p494
+sg8
+S'Device|PillCam\xc2\xae COLON 2 Capsule Endoscopy||Anti TNF induction therapy 6-12 months|'
+p495
+ssS'NCT02476643'
+p496
+(dp497
+g6
+S'Crohns Disease|Ulcerative Colitis|Irritable Bowel Syndrome'
+p498
+sg8
+S'Other|Integrative Therapy|This group receives an integrative therapy at the Department of Internal and Integrative Medicine, i.e. a combination of conventional diagnostic and therapeutic interventions with specific naturopathic, and complementary medicine approaches, and physical therapy.|Integrative Therapy|'
+p499
+ssS'NCT00904878'
+p500
+(dp501
+g6
+S'Inflammatory Bowel Disease'
+p502
+sg8
+g29
+ssS'NCT01952275'
+p503
+(dp504
+g6
+S"Other Specified Inflammatory Disorders of Skin or Subcutaneous Tissue|Pyoderma Gangrenosum|Erosive Pustular Dermatosis of the Scalp|Sweet's Syndrome|Behcet's Disease|Bowel-associated Dermatosis-arthritis Syndrome|Pustular Psoriasis|Acute Generalized Exanthematous Pustulosis|Keratoderma Blenorrhagicum|Sneddon-Wilkinson Disease|IgA Pemphigus|Amicrobial Pustulosis of the Folds|Infantile Acropustulosis|Transient Neonatal Pustulosis|Neutrophilic Eccrine Hidradenitis|Rheumatoid Neutrophilic Dermatitis|Neutrophilic Urticaria|Still's Disease|Erythema Marginatum|Unclassified Periodic Fever Syndromes / Autoinflammatory Syndromes|Dermatitis Herpetiformis|Linear IgA Bullous Dermatosis|Bullous Systemic Lupus Erythematosus|Inflammatory Epidermolysis Bullosa Aquisita|Neutrophilic Dermatosis of the Dorsal Hands (Pustular Vasculitis)|Small Vessel Vasculitis Including Urticarial Vasculitis|Erythema Elevatum Diutinum|Medium Vessel Vasculitis"
+p505
+sg8
+S'Procedure|Collection of biological samples|||'
+p506
+ssS'NCT01688557'
+p507
+(dp508
+g6
+S'Polyps|Neoplasms|Inflammatory Bowel Disease'
+p509
+sg8
+S'Device|Innovative colonoscopy (Olympus CF-HQ190F, NBI + Dual Focus)|NBI and Dual Focus options will be used to classify lesions according to Sano and Kudo classifications.|Innovative colonoscopy|\n\nDevice|Conventional colonoscopy (Olympus CF-H180DL)|Conventional colonoscopy performed without innovative techniques used in experimental arm.|Conventional colonoscopy|'
+p510
+ssS'NCT02636517'
+p511
+(dp512
+g6
+S"Clostridium Difficile|Inflammatory Bowel Disease|Crohn's Disease|Ulcerative Colitis"
+p513
+sg8
+S'Biological|Fecal Microbiota Transplant|Fecal Microbiota transplant via colonoscopy, considered both a biologic and a drug|C. Difficile without IBD,C. Difficile with IBD|'
+p514
+ssS'NCT00621257'
+p515
+(dp516
+g6
+S"Inflammatory Bowel Disease|Crohn's Disease|Ulcerative Colitis"
+p517
+sg8
+S'Dietary Supplement|ergocalciferol|8000 units/ml|Treatment A,Treatment C,Maintenance A,Maintenance B|Vitamin D2\n\nDietary Supplement|Cholecalciferol|400 units per drop|Treatment B|Vitamin D3'
+p518
+ssS'NCT01470547'
+p519
+(dp520
+g6
+S'Liver Cirrhosis|Portal Vein Thrombosis'
+p521
+sg8
+g29
+ssS'NCT01140802'
+p522
+(dp523
+g6
+S'Inflammatory Bowel Disease'
+p524
+sg8
+g29
+ssS'NCT01797224'
+p525
+(dp526
+g6
+S"Crohn's Disease|Rheumatoid Arthritis|Ankylosing Spondylitis|Psoriatic Arthritis"
+p527
+sg8
+g29
+ssS'NCT02044952'
+p528
+(dp529
+g6
+S"Inflammatory Bowel Diseases|Crohn's Disease|Gastrointestinal Diseases|Digestive System Diseases|Intestinal Diseases"
+p530
+sg8
+S'Drug|Mesalazine, Tripterygium glycosides|tripterygium glycosides: 2mg/kg/d, oral Mesalazine: 4g/d, oral|Mesalazine, Tripterygium glycosides|Triptolide,Lei gong teng,Thunder god vine'
+p531
+ssS'NCT02272868'
+p532
+(dp533
+g6
+S"Crohn's Disease"
+p534
+sg8
+S'Biological|Fecal Microbial transplant|Pretransplant regimen(rifaxamin+omeprazole+miralax) + Donor feces transplant|Fecal microbiome transplant|\n\nDrug|Normal Saline|Pretransplant regimen(rifaximin+omeprazole+miralax) +Normal Saline|Normal saline|\n\nDrug|rifaximin+omeprazole+miralax||Fecal microbiome transplant,Normal saline|'
+p535
+ssS'NCT02620514'
+p536
+(dp537
+g6
+S"Inflammatory Bowel Disease|Crohn's Disease|Ulcerative Colitis"
+p538
+sg8
+S'Behavioral|Education and Reminders|Participants with inflammatory bowel disease (IBD) will complete health-literacy surveys to assess medication adherence. Participants will be provided education materials, and will receive scheduled educational reminder phone calls and text messages at 2,6,12, and 24 weeks from the baseline assessment.|Health-literacy Assessment + Education and Reminders|\n\nBehavioral|Educational Visit|Participants with inflammatory bowel disease (IBD) will complete health-literacy surveys to assess medication adherence.Participants will undergo one scheduled visit with a nurse practitioner or physician for education about inflammatory bowel disease (IBD) after the baseline assessment.|Health-literacy Assessment + Educational Visit|\n\nBehavioral|Medication Educational Visit|Participants with inflammatory bowel disease (IBD) will complete health-literacy surveys to assess medication adherence. Participants will undergo one scheduled visit with a nurse practitioner or physician to discuss medication side effects and medication inadequacy after the baseline assessment.|Health-literacy Assessment + Medication Educational Visit|\n\nBehavioral|Financial Support|Participants with inflammatory bowel disease (IBD) will complete health-literacy surveys to assess medication adherence. Participants will receive information about patient assistance programs, copay cards, and a scheduled meeting with a social worker or financial advisor.|Health-literacy Assessment + Financial Support|'
+p539
+ssS'NCT02379117'
+p540
+(dp541
+g6
+S"Crohn's Disease"
+p542
+sg8
+g29
+ssS'NCT01046773'
+p543
+(dp544
+g6
+S"Crohn's Disease|Vitamin D Deficiency"
+p545
+sg8
+S"Drug|Cholecalciferol|Children less than 35 kg will receive 2,000 IU oral cholecalciferol daily for 6 months.|Children with Crohn's disease less than 35 kg|\n\nDrug|Cholecalciferol|Children 35 kg or greater will receive 4,000 IU oral cholecalciferol daily for 6 months.|Children with Crohn's disease 35 kg or greater|"
+p546
+ssS'NCT02433470'
+p547
+(dp548
+g6
+S'Inflammatory Bowel Disease'
+p549
+sg8
+S'Device|Transcranial direct current stimulation|Transcranial direct current stimulation over the motor cortex|Active tDCS,Sham tDCS|tDCS'
+p550
+ssS'NCT01491997'
+p551
+(dp552
+g6
+S'Ulcerative Colitis'
+p553
+sg8
+S'Behavioral|Mind/Body Medicine Course 1|The subject of the course is Mind/Body medicine. This course is learning about the mind and the body through experiences. The course will meet once every week, for a total of 8 weeks, for roughly 2 hours per class. You will be provided with a schedule of the weekly classes, which will occur on the same day every week, at the same time. Weekly sessions will be run by a teacher and will include other participants in the class. You will also be given homework assignments that are intended to reinforce what you learn in the program. The assignments will require up to 45 minutes, 6 days/week. Following the 6th class, and before the 7th class, there is a voluntary all day Saturday program. Participation in this program is optional. You are expected to continue to incorporate what you learned in the class in your daily routine after you are done with the classes.|Mind Body Medicine Course 1|\n\nBehavioral|Mind/Body Medicine Course 2|The subject of the course is Mind/Body medicine. This course is learning about the mind and the body through lectures. The course will meet once every week, for a total of 8 weeks, for roughly 2 hours per class. You will be provided with a schedule of the weekly classes, which will occur on the same day every week, at the same time. Weekly sessions will be run by a teacher and will include other participants in the class. You will also be given homework assignments that are intended to reinforce what you learn in the program. The assignments will require up to 45 minutes, 6 days/week. Following the 6th class, and before the 7th class, there is a voluntary all day Saturday program. Participation in this program is optional. You are expected to continue to incorporate what you learned in the class in your daily routine after you are done with the classes.|Mind/Body Medicine Course 2|'
+p554
+ssS'NCT01314092'
+p555
+(dp556
+g6
+S'Complex Perianal Fistula'
+p557
+sg8
+S'Biological|Autologous cultured adipose derived stem cells|low dose group: 1x10e7 cells/mL, high dose group: 2x10e7 cells/mL At 6 weeks after first stem cell injection, fistula closing was assessed. If it is not completely closed, second injection would be applied in 2 weeks. Additional dosage would be doubled to first dosage.|Group 1,Group 2|mesenchymal stem cell, ANTG-ASC, adipose derived stem cell'
+p558
+ssS'NCT01065571'
+p559
+(dp560
+g6
+S'Ulcerative Colitis'
+p561
+sg8
+S'Dietary Supplement|carrageenan|The intervention is the carrageenan-free diet. Supplementary carrageenan capsules will be given to mimic the carrageenan in the normal diet.|carrageenan-free diet w/ carrageenan|\n\nOther|dietary intervention with no-carrageenan diet|The intervention will consist of the no-carrageenan diet.|carrageenan-free diet with placebo|'
+p562
+ssS'NCT01010815'
+p563
+(dp564
+g6
+S'Ulcerative Colitis'
+p565
+sg8
+S'Procedure|Colonoscopy biopsy|Colonoscopy biopsy will be performed in rectum, ascending and descending colon at study entry|Control group|\n\nOther|stool collection|Stool will be collected from participants at study entry|Control group|\n\nProcedure|colonoscopy biopsy|colonoscopy biopsy will be conducted in rectum, ascending and descending colon from participants 2 times during study - at active phase and inactive phase|UC group|\n\nOther|stool collection|stool will be collected from participants 2 times during study - at active phase and inactive phase|UC group|'
+p566
+ssS'NCT02149043'
+p567
+(dp568
+g6
+S'Ulcerative Colitis'
+p569
+sg8
+S'Device|Thermography|Infrared imaging of the abdomen surface|UC patients,Control group|\n\nProcedure|Colonoscopy|Endoscopic examination of the colon|UC patients|'
+p570
+ssS'NCT02256462'
+p571
+(dp572
+g6
+S"Crohn's Disease"
+p573
+sg8
+S'Drug|Adalimumab|Eligible patients are those who are planned to start Adalimumab (ADA). Patients will be randomized at the first screening visits to either group 1 (interventional) or group 2 (clinical). Eligible patients, will start induction treatment (weeks 0,2) with ADA (> 40kg 160/80/40 mg every 2 weeks or < 40 kg 100/50/25 mg for m2 body surface area every 2 weeks). Interventions will start from the 4th injection for responding patients only (based on levels taken prior to the third injection). Responding patients will continue to the maintenance phase in which they will receive ADA every 2 weeks, either 40 mg or 25 mg/m2. At screening, and every 2 months all patients will be examined and have height, weight, PCDAI performed as well as comprehensive laboratory examinations.|Interventional|Humira'
+p574
+ssS'NCT02097797'
+p575
+(dp576
+g6
+S"Crohn's Disease"
+p577
+sg8
+S'Other|Fecal Transplantation|Fecal microbiota (50-100g of stool from donor resuspended in 250-350ml of physiological serum and filtered) given by infusion in coecum during colonoscopy|Fecal Transplantation|\n\nOther|Sham Transplantation|250-350ml of physiological serum given by infusion in coecum during colonoscopy|Sham Transplantation|'
+p578
+ssS'NCT02321280'
+p579
+(dp580
+g6
+S'Crohn Disease'
+p581
+sg8
+S'Drug|Denosumab|Single dose subcutaneous administration|Single arm single dose of denosumab|Xgeva,Prolia'
+p582
+ssS'NCT02129439'
+p583
+(dp584
+g6
+S'Colitis, Ulcerative'
+p585
+sg8
+S'Drug|SB012|The treatment phase lasts 28 consecutive days. The IMP will be administered for the first time at the study site in the morning on Day 1 (IMP administration training by study site staff). The final administration will be performed at the study site in the morning of Day 28. On all other treatment days (Day 2 to Day 27), the IMP will be self-administered by the subject at home.\nSB012 will be available in this clinical trial in a concentration of 7.5mg/ml hgd40 in 30ml PBS (Maximum daily dose: 225mg)\nThe IMP is formulated as an enema and will be administered in this clinical trial by the rectal route. The enema is a ready-for-use preparation. No further preparation steps are required.\nNo modifications are permitted to the dosing regimen except for premature study discontinuation.|SB012|Active drug substance is hgd40\n\nDrug|Placebo|Intervention of placebo-treated subjects does not vary to SB012-treated subjects.\nThe treatment phase lasts 28 consecutive days. Placebo will be administered for the first time at the study site in the morning on Day 1 (Administration training by study site staff). The final administration will be performed at the study site in the morning of Day 28. On all other treatment days (Day 2 to Day 27), the IMP/Placebo will be self-administered by the subject at home. Placebo will be administered with a volume of 30ml.\nThe IMP/Placebo is formulated as an enema (plastic rectal tube) and will be administered in this clinical trial by the rectal route. The enema is a ready-for-use preparation. No further preparation steps are required.|Placebo|Active ingredient-free PBS solution'
+p586
+ssS'NCT02395354'
+p587
+(dp588
+g6
+S"Stenosis|Crohn's Disease|Chronic Inflammation"
+p589
+sg8
+S'Device|Placing a self-expanding metallic stent|Income on short stay unit (SSU) post-procedure\nLight sedation by the endoscopist vs anesthetist by center\nFully covered self-expanding metal stents Tae Woong Medical\xc2\xae type; prosthesis size at the endoscopist discretion\nClips can be placed at the distal end of the prosthesis according to the endoscopist.\nProsthesis removal time in 4 weeks.|Placing a self-expanding metallic stent|\n\nDevice|A balloon dilatation|Income on short stay unit (SSU) post-procedure\nLight sedation by the endoscopist vs anesthetist by center.\nPneumatic ball type CRE Boston cientific\xc2\xae; balloon diameter at the endoscopist discretion\nUp to 2 expansion will be made with a minimum interval between 15-30 days between each expansion\nIt shall be deemed failure to expansion if required> 2 expansions.|A balloon dilatation|'
+p590
+ssS'NCT02640391'
+p591
+(dp592
+g6
+S'Ulcerative Colitis'
+p593
+sg8
+S'Other|colonoscopy||Quiescent UC|fecal calprotectin,fecal immunochemical test,Rome III criteria for IBS'
+p594
+ssS'NCT02726243'
+p595
+(dp596
+g6
+S'Inflammatory Bowel Disease|Colorectal Cancer'
+p597
+sg8
+g29
+ssS'NCT02683759'
+p598
+(dp599
+g6
+S'Ulcerative Colitis'
+p600
+sg8
+S"Dietary Supplement|Bio-enhanced Curcumin Soft Gelatin Capsule|Each capsule is a bio-enhanced modification of curcumin (diferuloylmethane), which is a derivative of curcuma longa (rhizome extract)\nStarting dose: 50 mg BID of Bioenhanced Curcumin Increase dose to 100 mg BID after two (2) weeks if there is no response to the drug|Treatment Arm|Valdone\n\nDrug|5-Aminosalicyclic acid|Dosage is as instructed by patient's physician|Treatment Arm,Control Arm|5-ASA"
+p601
+ssS'NCT01548014'
+p602
+(dp603
+g6
+S"Crohn's Disease"
+p604
+sg8
+S"Dietary Supplement|VSL#3|children with severe Crohn's disease were assigned in a 1:1 ratio with either IFX 5 mg/kg q 12 weeks + concurrent immunomodulator + VSL#3 (4 sachets of 450 x 109 organisms per day) (Group A), or IFX 5 mg/kg q 8 weeks + concurrent immunomodulator (Group B).||VSL#3 : the living shield(probiotics)"
+p605
+ssS'NCT01783119'
+p606
+(dp607
+g6
+S'Ulcerative Colitis'
+p608
+sg8
+S'Dietary Supplement|Aloe Barbadensis Miller||Aloe Vera|\n\nDietary Supplement|placebo water||water|'
+p609
+ssS'NCT02412553'
+p610
+(dp611
+g6
+S"Crohn's Disease"
+p612
+sg8
+S'Other|Specific carbohydrate diet||Specific carbohydrate arm|\n\nOther|Elemental diet||Elemental diet arm|'
+p613
+ssS'NCT02182947'
+p614
+(dp615
+g6
+S'IBD'
+p616
+sg8
+S"Device|Capsule endoscopy|Pediatric patients with indeterminate colitis (IC) or Crohn's disease (CD) who are scheduled to undergo routine small bowel screening or surveillance using MRE. Subjects will swallow a patency capsule (PC) to study bowel patency.Those patients, who pass an intact PC, usually within 40 hours, will ingest the wireless capsule endoscopy (WCE). The WCE will be performed within 1 week of completion of MRE.|Endoscopy Imaging|Wireless capsule endoscopy, Pillcam from given imaging"
+p617
+ssS'NCT02680756'
+p618
+(dp619
+g6
+S"Anemia, Iron-Deficiency|Inflammatory Bowel Disease|Crohn's Disease"
+p620
+sg8
+S'Drug|Ferric Maltol||Oral ferric iron compound|Feraccru,Ferric Trimaltol,ST10,ST10-01\n\nDrug|Ferric Carboxy Maltose||Intravenous iron|'
+p621
+ssS'NCT02442960'
+p622
+(dp623
+g6
+S'Ulcerative Colitis'
+p624
+sg8
+S'Drug|Herbal treatment (SA100)|This treatment has been used extensively in traditional medicine practices for hundreds of years.|Cohort 1,Cohort 2|'
+p625
+ssS'NCT02596893'
+p626
+(dp627
+g6
+S'Crohn Disease'
+p628
+sg8
+S'Drug|GED-0301||GED0301 160mg x 12 weeks followed by periodic 160 mg GED0301,GED0301 160mg x 12 weeks followed by periodic GED0301 40mg,GED0301 160mg x 12 weeks followed by continuous GED0301 40mg|\n\nDrug|Placebo||GED0301 160mg x 12 weeks followed by periodic 160 mg GED0301,GED0301 160mg x 12 weeks followed by periodic GED0301 40mg,Placebo|'
+p629
+ssS'NCT02010762'
+p630
+(dp631
+g6
+S"Crohn's Disease"
+p632
+sg8
+S'Drug|Vitamin D|25.000 IU oral drops|Vitamin D|\n\nDrug|Placebo|placebo oral drops|Placebo|'
+p633
+ssS'NCT02614014'
+p634
+(dp635
+g6
+S'Inflammatory Bowel Disease'
+p636
+sg8
+S'Behavioral|Cognitive-behavior interventional program||Psychological intervention|'
+p637
+ssS'NCT02575040'
+p638
+(dp639
+g6
+S'Ulcerative Colitis|Crohn Disease|Constipation (Excl Faecal Impaction)'
+p640
+sg8
+S'Biological|Fecal microbiota transplantation|Fecal microbiota transplantation to patients with ulcerative colitis and Crohn disease|Fecal microbiota transplantation|'
+p641
+ssS'NCT01671956'
+p642
+(dp643
+g6
+S'Ulcerative Colitis, Active Moderate|Ulcerative Colitis, Active Severe'
+p644
+sg8
+S'Biological|Bertilimumab||Bertilimumab|\n\nBiological|Placebo||Placebo|'
+p645
+ssS'NCT02093780'
+p646
+(dp647
+g6
+S'Ulcerative Colitis'
+p648
+sg8
+S"Behavioral|Alberta Anti-inflammatory diet|Patients randomized to Alberta Anti-inflammatory diet will follow a strict menu plan designed by certified dietitian for 6 months.|Alberta Anti-inflammatory Diet|\n\nBehavioral|Canada's Food Guide Diet|Patients randomized to Canada's Food Guide diet will receive counseling by certified dietitian for 6 months and will design their own diet following Canada's Food Guide.|Canada's Food Guide Diet|"
+p649
+ssS'NCT02269358'
+p650
+(dp651
+g6
+S"Crohn's Disease"
+p652
+sg8
+S'Drug|METHOTREXATE|Infliximab therapy after escalation. SC methotrexate at 15 mg/m2 , not to exceed 25 mg/m2 per week for 4 weeks. Patients in remission after 4 weeks reduce their dose by halve. patients not in remission will continue the full dose until 12 weeks.|Addition of methotrexate|Rheumatrex,Trexall'
+p653
+ssS'NCT02649075'
+p654
+(dp655
+g6
+S"Crohn's Disease"
+p656
+sg8
+S'Other|Serum-derived Bovine Immunoglobulin / Protein Isolate|Serum-derived bovine immunoglobulin protein isolate (SBI) is a specially formulated light-colored protein powder composed of immunoglobulin (IgG) and other serum proteins similar to those found in colostrum and milk. SBI does not contain any milk products such as lactose, casein, or whey. SBI is gluten-free, dye-free, and soy-free. SBI is manufactured in accordance with current Good Manufacturing Practice (cGMP) and FDA guidelines for medical food ingredients. Two packets (each packet contains 5 g of SBI) BID.|SBI 10 g BID|EnteraGam\n\nOther|Placebo|Matching placebo with control hydrolyzed gelatin protein. Two packets BID.|Placebo BID|'
+p657
+ssS'NCT02201693'
+p658
+(dp659
+g6
+S"Crohn's Disease"
+p660
+sg8
+S'Dietary Supplement|MODULEN IBD|2 week ON / 6 weeks OFF treatment every 8 weeks covering at least 100% of daily caloric requirement (approx. 2-2.5L/day).|Cyclic exclusive MODULEN IBD|\n\nDietary Supplement|MODULEN IBD|25% of daily caloric requirements, approx. 500mL/day|MODULEN IBD supplementation (25% of caloric requirements)|'
+p661
+ssS'NCT01626963'
+p662
+(dp663
+g6
+S'Colorectal Cancer|Inflammatory Bowel Disease|Benign Colorectal Neoplasm|Diverticular Disease'
+p664
+sg8
+S'Procedure|Single-port access surgery|Surgery carried out through a single incision laparoscopic approach|SPA|\n\nProcedure|Conventional Laparoscopic Access|Surgery through standard multiport laparoscopic approach|CL|'
+p665
+ssS'NCT01026480'
+p666
+(dp667
+g6
+S'Ileal Pouch-Anal Anastomosis'
+p668
+sg8
+g29
+ssS'NCT02120391'
+p669
+(dp670
+g6
+S'Ulcerative Colitis'
+p671
+sg8
+S'Other|iPhone Application|All subjects will receive the iPhone App on their phone however not all subjects will have the intervention (medication notifications) turned on.|Control (Arm A),Cases (Arm B)|'
+p672
+ssS'NCT01765439'
+p673
+(dp674
+g6
+S'Crohn Disease|Ulcerative Colitis'
+p675
+sg8
+S'Dietary Supplement|VSL#3 (Original De Simone formulation)|Study subjects will receive two sachets of VSL#3 probiotic (ie 2x900 billions of live bacteria) per day (one in the morning, one in the evening). The intervention period will be 6 weeks (plus or minus 5 days).|CD resected,UC unoperated,UC IPAA,Healthy volunteers|'
+p676
+ssS'NCT02261636'
+p677
+(dp678
+g6
+S'Ulcerative Colitis'
+p679
+sg8
+S'Drug|mesalazine||Pentasa|Pentasa'
+p680
+ssS'NCT02000362'
+p681
+(dp682
+g6
+S"Crohn's Disease"
+p683
+sg8
+S'Biological|Stem cells||Treatment|FURESTEM-CD Inj.'
+p684
+ssS'NCT02240108'
+p685
+(dp686
+g6
+S"Crohn's Disease"
+p687
+sg8
+S'Drug|Rifaximin DR||Rifaximin DR|\n\nDrug|Placebo||Placebo|'
+p688
+ssS'NCT02367326'
+p689
+(dp690
+g6
+S'Inflammatory Bowel Diseases'
+p691
+sg8
+S'Other|data collection|data collection will be carried out by the investigator during a standard hospitalization of the patient|Patients with Inflammatory Bowel Disease|'
+p692
+ssS'NCT01942655'
+p693
+(dp694
+g6
+S'HIV Reservoirs'
+p695
+sg8
+S'Other|Blood sample and recto-colic biopsies||Patients with recto-colic biopsies prescribed|'
+p696
+ssS'NCT02694588'
+p697
+(dp698
+g6
+S'IBD'
+p699
+sg8
+S'Drug|Infliximab|HD-endoscopy, CLE, endoscopic ultrasound after application of TNF alpha antibody|Infliximab|Endoscopic assessment after Infliximab\n\nDrug|Vedolizumab|HD-endoscopy, CLE, endoscopic ultrasound after application of TNF alpha antibody|Vedolizumab|Endoscopic assessment after Vedolizumab'
+p700
+ssS'NCT01540292'
+p701
+(dp702
+g6
+S"Crohn's Disease"
+p703
+sg8
+S'Biological|Mesenchymal Stem Cells (MSC)|MSC (1.5-2 cells/kg BW) IV injection, twice at 4 weeks apart|MSC|'
+p704
+ssS'NCT01848561'
+p705
+(dp706
+g6
+S'Ulcerative Colitis'
+p707
+sg8
+g29
+ssS'NCT01266629'
+p708
+(dp709
+g6
+S"Crohn's Disease"
+p710
+sg8
+g29
+ssS'NCT01667029'
+p711
+(dp712
+g6
+S'Painful Neuropathy'
+p713
+sg8
+S'Drug|Sulfasalazine||sulfasalazine|\n\nDrug|placebo||placebo|'
+p714
+ssS'NCT02481687'
+p715
+(dp716
+g6
+S"Inflammatory Bowel Disease|Crohn's Disease|Ulcerative Colitis|Dysplasia"
+p717
+sg8
+S"Other|Confocal laser endomicroscopy|Probe based confocal laser endomicroscopy is a contrast based technique, consisting of a flexible catheter probe representing a bundle of optical fibers linked to a micro-objective a laser scanning unit and the control and acquisition software. The flexible confocal miniprobes can be passed through the working channels of standard endoscopes. The principle of the technique is based on a laser beam of defined wavelength being focused towards the targeted tissue and the recaptured signal is displayed as 'optical biopsies' in a single horizontal plane. The device was intended to be used for faster diagnosis and evaluation of gut diseases, by allowin in vivo histology.|Ulcerative colitis,Crohn's disease|"
+p718
+ssS'NCT01145365'
+p719
+(dp720
+g6
+S'Crohns Disease|Fistula|Abscess'
+p721
+sg8
+S'Other|Surgically established drainage of perianal fistulas &/or abscesses BEFORE medical tx|Surgical established drainage of perianal fistulas &/or abscesses will be done BEFORE patient begins medical therapy with Cimzia|Combination Therapy Group|Cimzia,Certolizumab pegol'
+p722
+ssS'NCT01005589'
+p723
+(dp724
+g6
+S'Neonatal Sepsis|Enterocolitis, Necrotizing'
+p725
+sg8
+g29
+ssS'NCT01793831'
+p726
+(dp727
+g6
+S"Crohn's Diseases|Inflammatory Bowel Disease"
+p728
+sg8
+S'Procedure|FMT|Standard FMT, once|Fecal microbiota transplantation|\n\nDrug|5-ASA, Prednisone, Azathioprine or Remicade||Traditional treatments, eg. 5-ASA|Mesalamine,Corticoids,Immunomodulatory therapy,Infliximab'
+p729
+ssS'NCT02537210'
+p730
+(dp731
+g6
+S'Colitis, Ulcerative|Aminosalicylic Acid'
+p732
+sg8
+S'Drug|Mesalazine|Patients will be prescribed Asacol 2g daily for 12 months|Mesalazine|Asacol\n\nDrug|Placebo|Patients will be prescribed placebo 5 capsules daily for 12 months|Placebo|'
+p733
+ssS'NCT02624037'
+p734
+(dp735
+g6
+S'Inflammatory Bowel Disease'
+p736
+sg8
+S'Other|Individualized Dosage Precision IFX Dashboard|Pharmacokinetic Dashboard Recommended Dosage and Dosing Frequency of Infliximab|Individualized Dosage Precision IFX Dashboard|'
+p737
+ssS'NCT02281799'
+p738
+(dp739
+g6
+S'Pancreatitis|Inflammatory Bowel Diseases'
+p740
+sg8
+S'Drug|Azathioprine|Patients will be commenced on an alternative thiopurine to that used initially, according to the standard dosing schedule used by their IBD clinician.\nFor example, if the initial thiopurine-related pancreatitis occurred while taking Azathioprine, the patient will be restarted on 6-MP, and vice versa.|Open label|6-mercaptopurine'
+p741
+ssS'NCT02394028'
+p742
+(dp743
+g6
+S'Crohn Disease'
+p744
+sg8
+S'Drug|Etrolizumab 210 mg|Induction phase only: 210 mg dose subcutaneous injection administration at Weeks 0,2,4,8 and 12|Etrolizumab 210 mg Weeks 0,2,4,8 and 12 in Induction Arm only|\n\nDrug|Etrolizumab 105 mg|Induction Phase : 105 mg dose subcutaneous administration at Weeks 0,4,8 and 12; Maintenance Phase : Single 105 mg dose subcutaneous administration Q4W|Etrolizumab 105 mg Q4W in Induction and Maintenance Arms|\n\nDrug|Placebo|Matching placebo to either etrolizumab 105 mg or etrolizumab 210 mg according to the treatment schedule|Placebo|'
+p745
+ssS'NCT01531075'
+p746
+(dp747
+g6
+S'Inflammatory Bowel Disease'
+p748
+sg8
+S'Biological|ENGERIX-B (HBV Vaccine)|ENGERIX-B (Hepatitis B Vaccine) 20 mcg, A series of 3 doses (1 mL each) given on a 0-, 1-, 6-month schedule.|ENGERIX-B|ENGERIX-B\n\nBiological|Sci-B-Vac|Sci-B-Vac (Hepatitis B Vaccine) 10 \xce\xbcg/ml, A series of 3 doses (1 mL each) given on a 0-, 1-, 6-month schedule.|Sci-B-Vac|'
+p749
+ssS'NCT01545063'
+p750
+(dp751
+g6
+S"Crohn's Disease|Peritoneal Carcinomatosis With Intestinal Occlusion|Radiation Enteritis|Chronic Diarrhea|Intestinal Lymphomas"
+p752
+sg8
+g29
+ssS'NCT01950507'
+p753
+(dp754
+g6
+S'Stem Cell Transplantation|Graft vs Host Disease'
+p755
+sg8
+S'Drug|Budesonide|||\n\nDrug|Fluconazole|||\n\nDrug|Voriconazole|||'
+p756
+ssS'NCT02100696'
+p757
+(dp758
+g6
+S'Ulcerative Colitis'
+p759
+sg8
+S'Drug|etrozulimab|105 mg administered by subcutaneous injection every 4 weeks|Blinded (Cohort 2): etrolizumab I + M,Blinded (Cohort 2): etrolizumab I + placebo M,Open-label (Cohort 1): etrolizumab I + M,Open-label (Cohort 1): etrolizumab I + placebo M|\n\nDrug|placebo|administered by subcutaneous injection every 4 weeks|Blinded (Cohort 2): etrolizumab I + placebo M,Blinded (Cohort 2): placebo induction (I) + maintenance (M),Open-label (Cohort 1): etrolizumab I + placebo M|'
+p760
+ssS'NCT02405442'
+p761
+(dp762
+g6
+S"Crohn's Disease"
+p763
+sg8
+S'Drug|GS-5745|GS-5745 administered via subcutaneous (SC) injection|Group B (Blinded Treatment),Group C (Blinded Treatment),Group D (Blinded Treatment),Open Label Extension GS-5745,Extended Treatment Phase GS-5745|\n\nDrug|Placebo|Placebo to match GS-5745 administered via subcutaneous (SC) injection|Group A (Blinded Treatment),Group B (Blinded Treatment)|'
+p764
+ssS'NCT02539368'
+p765
+(dp766
+g6
+S"Inflammatory Bowel Diseases|Ulcerative Colitis|Crohn's Disease"
+p767
+sg8
+S'Drug|Inflectra (infliximab)|||'
+p768
+ssS'NCT02497469'
+p769
+(dp770
+g6
+S'Colitis, Ulcerative'
+p771
+sg8
+S'Drug|Vedolizumab|Vedolizumab infusion|Vedolizumab IV|\n\nDrug|Adalimumab placebo|Adalimumab placebo-matching injection|Vedolizumab IV|\n\nDrug|Adalimumab|Adalimumab injection|Adalimumab SC|\n\nDrug|Vedolizumab placebo|Vedolizumab placebo-matching infusion|Adalimumab SC|'
+p772
+ssS'NCT02674308'
+p773
+(dp774
+g6
+S"Ulcerative Colitis and Crohn's Disease"
+p775
+sg8
+S'Drug|Vedolizumab||Vedolizumab|\n\nOther|Other Biologic Agents|Other biologic agents include: Adalimumab, Certolizumab pegol, Golimumab, and Infliximab|Other Biologic Agents|'
+p776
+ssS'NCT00534131'
+p777
+(dp778
+g6
+S'Rectal Neoplasms|Colitis, Ischemic|Colitis, Ulcerative'
+p779
+sg8
+S'Procedure|Standard abdominal approach for rectal excision|Standard abdominal approach for rectal excision|Arm 1|\n\nProcedure|APPEAR Procedure|Perineal incision to reach the distal rectum|Arm 2|Anterior Perineal PlanE for ultra low rectal excision\n\nProcedure|Proctectomy|standard rectal excision which does not preserve the anal canal|Arm 3|'
+p780
+ssS'NCT02144129'
+p781
+(dp782
+g6
+S'Ulcerative Colitis'
+p783
+sg8
+S'Other|active Whole Body Electromyostimulation||active WB-EMS|\n\nOther|Passive WB-EMS||Passive WB-EMS|\n\nDevice|WB-EMS application||active WB-EMS|'
+p784
+ssS'NCT01874015'
+p785
+(dp786
+g6
+S"Crohn's Disease"
+p787
+sg8
+S"Biological|mesenchymal cell transplantation|Mesenchymal cell transplantation in patients with Crohn's disease.|mesenchymal cell transplantaion|\n\nBiological|mesenchymal cell and fibroblast injection|Transplantation of mesenchymal cell and fibroblast in patients with crohn's disease.|mesenchymal cell and fibroblast transplantaion|"
+p788
+ssS'NCT02389790'
+p789
+(dp790
+g6
+S"Crohn's Disease"
+p791
+sg8
+S'Drug|MT-1303||MT-1303|'
+p792
+ssS'NCT02675153'
+p793
+(dp794
+g6
+S"Crohn's Diseases"
+p795
+sg8
+S'Drug|Sirolimus|Sirolimus 2mg daily will be given to subjects by oral for six months.|Sirolimus|Rapamycin\n\nDrug|5-ASA, Prednisone, Azathioprine or Remicade|5-ASA, Prednisone, Azathioprine and Remicade are traditional treatments according to associated guidelines|Traditional treatments|Mesalamine,Corticoids,Immunomodulatory therapy,Infliximab'
+p796
+ssS'NCT02769494'
+p797
+(dp798
+g6
+S"Crohn's Disease|Oral Ulcer"
+p799
+sg8
+S'Drug|Mesalazine Sustained-Release Tablets|Mesalazine sustained-release tablets 500mg and 0.02L glycerol mixed, the preparation of 2.5% the mesalazine glycerol suspension liquid, gently apply to the ulcer surface, 3 times/day. The application time of the drug is 8:00,12:00, 16:00. Daily 20:00 measure the size of the mouth ulcers and record the symptoms in the diary card.|Mesalazine Group|Pentasa\n\nDrug|Riboflavin Sodium Phosphate Injection|gently apply the riboflavin sodium phosphate injection to the ulcer surface, 3 times/day. The application time of the drug is 8:00,12:00, 16:00. Daily 20:00 measure the size of the mouth ulcers and record the symptoms in the diary card.|Riboflavin Sodium Phosphate Group|'
+p800
+ssS'NCT02465385'
+p801
+(dp802
+g6
+S"Crohn's|Ulcerative Colitis|Gastrointestinal Bleeding"
+p803
+sg8
+S'Drug|Linaclotide|Every participant with be given 290 mcg of linaclotide 1 hour prior to receiving their capsule, in place of the standard (golytely) preparation|Intervention|Linzess'
+p804
+ssS'NCT00309660'
+p805
+(dp806
+g6
+S'Ulcerative Colitis'
+p807
+sg8
+S'Drug|Rosiglitazone|||'
+p808
+ssS'NCT01464151'
+p809
+(dp810
+g6
+S'Inflammatory Bowel Disease|Colorectal Cancer'
+p811
+sg8
+g29
+ssS'NCT00265772'
+p812
+(dp813
+g6
+S"Crohn's Disease|Pediatric"
+p814
+sg8
+S'Drug|MODULEN IBD (R) (specific Enteral Nutrition)|||\n\nDrug|prednisolon|||'
+p815
+ssS'NCT01697670'
+p816
+(dp817
+g6
+S'Ulcerative Colitis'
+p818
+sg8
+S'Drug|Photodynamic therapy with Gliolan|Laser light illumination with red light at 635 nm using a cylindrical light diffuser (Model RD, Medlight SA) in a white diffusing inflatable balloon catheter (model CDB OEB, Medlight SA) at a fluence rate of 65.5 mW/cm2 over 153 s resulting in a total light dose of 10 J/cm2 is performed 3 hours after administration of 15mg/kg bodyweight Gliolan|Photodynamic therapy with Gliolan|5-aminolaevulinic acid (5-ALA)'
+p819
+ssS'NCT01385124'
+p820
+(dp821
+g6
+S'Graft Versus Host Disease'
+p822
+sg8
+S'Drug|Oral Cannabidiol|Cannabidiol will be dissolved in oil to a predefined concentration. Patients will be given oral cannabidiol 10 mg twice daily from conditioning starting day and until day +30 after allogeneic transplantation.|Oral Cannabidiol|'
+p823
+ssS'NCT00275418'
+p824
+(dp825
+g6
+S"Crohn's Disease"
+p826
+sg8
+S'Drug|beta carotene from Dunaliella algae|||'
+p827
+ssS'NCT02217722'
+p828
+(dp829
+g6
+S'Ulcerative Colitis (UC)'
+p830
+sg8
+S'Other|Ulcerative Colitis Diet|we have postulated that a diet that increases butyrate through fiber exposure, reduces intestinal sulfur exposure, and increases vitamin D levels could be beneficial for patients with Ulcerative Colitis. To date, no study has explored this possibility.|Ulcerative Colitis Diet counseling|\n\nDrug|Antibiotic cocktail|We have postulating that antibiotic therapy can alter the microbiota clinically. Controlling the microbiota by antibiotics may allow for control of the disease without immune suppression|Antibiotic Treatment|Doxycyclin, amoxicillin and metronidazole'
+p831
+ssS'NCT00742118'
+p832
+(dp833
+g6
+S'Irritable Bowel Syndrome'
+p834
+sg8
+S'Procedure|Colic biopsies|colic biopsies and analysis|2,3,1|endoscopic biopsy'
+p835
+ssS'NCT02450513'
+p836
+(dp837
+g6
+S"Crohn's Disease"
+p838
+sg8
+S'Drug|Adalimumab|160 mg at week 0, 80 mg at week 2 and 40 mg every two weeks onwards|Single-group study|Humira'
+p839
+ssS'NCT02274714'
+p840
+(dp841
+g6
+S"Crohn's Disease|Ulcerative Colitis"
+p842
+sg8
+S'Other|Questionnaire Only|Subjects will have an interview with a study coordinator to fill out questionnaires for the study|Case (with IBD),Control (without IBD)|'
+p843
+ssS'NCT01331551'
+p844
+(dp845
+g6
+S'Colitis Ulcerative|Crohn Disease'
+p846
+sg8
+g29
+ssS'NCT02487238'
+p847
+(dp848
+g6
+S'Inflammatory Bowel Disease|Ulcerative Colitis'
+p849
+sg8
+S'Biological|Fecal Microbial Enema|Active intervention.|Fecal Microbial Enema|FMT,RBX2660,Rebiotix\n\nBiological|Normal Saline Enema|Placebo comparator.|Normal Saline Enema|'
+p850
+ssS'NCT02641171'
+p851
+(dp852
+g6
+S"Crohn's Disease"
+p853
+sg8
+S'Other|Lack of intervention|This is an observational/validation study and there is no intervention involved.||'
+p854
+ssS'NCT01876264'
+p855
+(dp856
+g6
+S"Crohn's Disease|Recurrence"
+p857
+sg8
+S'Procedure|Extended resection||Extended resection|\n\nProcedure|Conventional resection||Conventional resection|'
+p858
+ssS'NCT02020382'
+p859
+(dp860
+g6
+S"Ulcerative Colitis,|Crohn's Disease,|Healthy|Non-IBD Colitis"
+p861
+sg8
+S'Device|qPCR diagnostic KIT of microRNAS|testing qPCR diagnostic KIT of microRNAS from colonic biopsies|Crohn adult colic,RCH adults,Witnesses healthy adults,Witnesses adults with non-IBD inflammation,Children with colitis,Witnesses healthy children|'
+p862
+ssS'NCT00922415'
+p863
+(dp864
+g6
+S"Complicated Crohn's Disease"
+p865
+sg8
+g29
+ssS'NCT02066272'
+p866
+(dp867
+g6
+S"Inflammatory Bowel Disease|Ulcerative Colitis|Crohn's Disease|Indeterminate Colitis"
+p868
+sg8
+g29
+ssS'NCT02084186'
+p869
+(dp870
+g6
+S'Ulcerative Colitis'
+p871
+sg8
+S'Other|herb-partitioned moxibustion|Ignited moxa cones are placed upon herbal cake. Herbs are smashed into powder. Every 2.8g medicine powder mix with 3g millet wine and then be pressed into herbal cakes which are 28mm in diameter and 7mm in high with a specific mould. Then the herbal cake with a moxa cone will be fixed on Tianshu and Shangjuxu.|moxibustion group|\n\nOther|bran-partitioned moxibustion|Ignited moxa cones are placed upon bran cake. Every 2.8g bran powder mix with 3g millet wine and then be pressed into bran cakes which are 28mm in diameter and 7mm in high with a specific mould. Then the bran cake with a moxa cone will be fixed on Tianshu and Shangjuxu.|bran-partitioned moxibustion|'
+p872
+ssS'NCT02589665'
+p873
+(dp874
+g6
+S'Ulcerative Colitis'
+p875
+sg8
+S'Drug|LY3074828||Low Dose LY3074828 Induction,Mid Dose LY3074828 Induction,High Dose LY3074828 Induction,LY3074828 Maintenance Dose Schedule 1,LY3074828 Maintenance Dose Schedule 2|\n\nDrug|Placebo||Placebo Induction,Placebo Maintenance|'
+p876
+ssS'NCT02367183'
+p877
+(dp878
+g6
+S'Crohn Disease'
+p879
+sg8
+S'Drug|GED-0301||GED-0301 160mg QD 12 WK,GED-0301 160 mg QD 8 WK,GED-0301 160 mg QD 4 WK|\n\nDrug|Placebo||GED-0301 160 mg QD 8 WK,GED-0301 160 mg QD 4 WK|'
+p880
+ssS'NCT01735461'
+p881
+(dp882
+g6
+S"Kidney Calculi|Crohn's Disease"
+p883
+sg8
+S'Dietary Supplement|Calcium Carbonate|There is a regimen for dietary supplement intake that will be provided to study participants.|Dietary supplement|CaCO3'
+p884
+ssS'NCT01196702'
+p885
+(dp886
+g6
+S'Common Variable Immunodeficiency|Granulomatous Disease|Bronchiectasis|Immunoglobulin Treatment'
+p887
+sg8
+g29
+ssS'NCT02341248'
+p888
+(dp889
+g6
+S'Crohn Disease'
+p890
+sg8
+S"Other|Exclusive Enteral Nutrition (EEN)|8 week standard course of treatment with EEN|A) Newly diagnosed with Crohn's disease,B) Existing diagnosis of Crohn's disease|"
+p891
+ssS'NCT02277470'
+p892
+(dp893
+g6
+S'Ulcerative Colitis'
+p894
+sg8
+g29
+ssS'NCT02676817'
+p895
+(dp896
+g6
+S'Colitis, Ulcerative'
+p897
+sg8
+g29
+ssS'NCT01504113'
+p898
+(dp899
+g6
+S'Psoriasis'
+p900
+sg8
+g29
+ssS'NCT01771224'
+p901
+(dp902
+g6
+S'Inflammatory Bowel Disease|Ulcerative Colitis'
+p903
+sg8
+S'Dietary Supplement|Palmitoleic acid|Palmitoleic acid and 5-ASA|palmitoleic acid|'
+p904
+ssS'NCT01881464'
+p905
+(dp906
+g6
+S"Crohn's Disease"
+p907
+sg8
+S"Device|Endopath from Itamar medical - FDA approved device.|endothelial function assessment by Endopath device|endothelial dysfunction assessment|\n\nDrug|Anti TNF Alfa.|This study will assessed the presence of endothelial dysfunction in patients with Crohn's disease before and after 12 weeks treatment of anti TNF \xce\xb1.|endothelial dysfunction assessment|HUMIRA-ADALIMUMAB, REMICADE-INFLIXIMAB"
+p908
+ssS'NCT01604564'
+p909
+(dp910
+g6
+S'Colitis,Ulcerative|Adenomatous Polyposis Coli|Reservoir, Ileoanal'
+p911
+sg8
+g29
+ssS'NCT00224562'
+p912
+(dp913
+g6
+S"Rheumatoid Arthritis|Crohn's Disease|Ankylosing Spondylitis|Psoriasis"
+p914
+sg8
+S'Drug|TNF-alpha antagonists|||'
+p915
+ssS'NCT02693730'
+p916
+(dp917
+g6
+S'Irritable Bowel Syndrome|Ulcerative Colitis|Inflammatory Bowel Disease'
+p918
+sg8
+g29
+ssS'NCT01826188'
+p919
+(dp920
+g6
+S"Crohn's Disease"
+p921
+sg8
+S'Drug|THC 5 mg/ml and CBD 50 mg/ml.||THC 5 mg/ml and CBD 50 mg/ml.|'
+p922
+ssS'NCT01819766'
+p923
+(dp924
+g6
+S'Inflammatory Bowel Disease (IBD)|Primary Sclerosing Cholangitis (PSC)|Colorectal Neoplasms|Colorectal Cancer'
+p925
+sg8
+g29
+ssS'NCT02039063'
+p926
+(dp927
+g6
+S"Crohn's Disease"
+p928
+sg8
+S'Drug|E6011 2 mg/kg||1|\n\nDrug|E6011 5 mg/kg||2|\n\nDrug|E6011 10 mg/kg||3|\n\nDrug|E6011 15 mg/kg||4|'
+p929
+ssS'NCT02774057'
+p930
+(dp931
+g6
+S'Iron Deficiency Anemia|Inflammatory Bowel Disease'
+p932
+sg8
+S'Drug|Captafer\xc2\xae|2 pills daily. Contains\nVitamin C, known for its property to facilitate iron absorption by reducing iron to the reduced ferrous state necessary for uptake;\nVitamin E, an antioxidant, along with vitamin C it protects Fe++;\nFolic acid, necessary to prevent megaloblastic anemia and abnormalities in the fetal nervous system, vital during pregnancy;\nZinc and Copper which act in different mitochondrial cytochromes-dependent systems and contribute to the use of iron by the biological systems|Initial therapy with Captafer\xc2\xae,Initial therapy with Iron Sulfate|\n\nDrug|Iron Sulfate|195 mg Iron supplement|Initial therapy with Captafer\xc2\xae,Initial therapy with Iron Sulfate|Ironorm'
+p933
+ssS'NCT02280629'
+p934
+(dp935
+g6
+S'Ulcerative Colitis'
+p936
+sg8
+S'Drug|LT-02|LT-02 1.6g twice daily AND mesalamine PLACEBO three-times daily|LT-02|\n\nDrug|Placebo|LT-02 PLACEBO twice daily AND mesalamine PLACEBO three-times daily|Placebo|\n\nDrug|Mesalamine|LT-02 PLACEBO twice daily AND mesalamine 500mg three-times daily|Mesalamine|'
+p937
+ssS'NCT01288053'
+p938
+(dp939
+g6
+S"Crohn's Disease"
+p940
+sg8
+S"Biological|Allogeneic Stem Cell Therapy|Donor stem cells will be given to subject diagnosed with Crohn's disease|Allogeneic Stem Cell Therapy|"
+p941
+ssS'NCT02355834'
+p942
+(dp943
+g6
+S'Fecal Incontinence|Inflammatory Bowel Disease (IBD)'
+p944
+sg8
+S'Other|IBD nurse intervention|Two IBD nurse specialists at each centre (8 in total) will deliver the IBD nurse intervention|Group 1 (IBD Nurse CONSULT + BOOKLET)|'
+p945
+ssS'NCT01663142'
+p946
+(dp947
+g6
+S"Flammatory Bowel Disease|Crohn's Disease"
+p948
+sg8
+g29
+ssS'NCT02407236'
+p949
+(dp950
+g6
+S'Colitis, Ulcerative|Inflammatory Bowel Diseases'
+p951
+sg8
+S'Drug|Placebo IV|Placebo will be administered as intravenous infusion.|Induction Study - Placebo Intravenous (IV)|\n\nDrug|Placebo SC|Placebo will be administered Subcutaneously.|Maintenance Study - Placebo Subcutaneous (SC),Maintenance Study - Placebo IV - Responder - Placebo SC|\n\nDrug|Ustekinumab IV|Ustekinumab will be administered as intravenous infusion at Week 0 or Week 8 in Induction Study.|Induction Study - Ustekinumab 130 milligram (mg) IV,Induction Study - Ustekinumab 6 mg/kg IV,Induction Study- Placebo- Nonresponsders at Week 8|\n\nDrug|Ustekinumab SC|Ustekinumab will be administered as subcutaneously.|Induction study-Ustekinumab Nonresponders at Week 8,Maintenance Study - Ustekinumab 90mg SC every 12 weeks,Maintenance Study - Ustekinumab 90mg SC every 8 weeks (q8w),Maintenance Study-Delayed Responder-Ustekinumab 90mg SC q8w|'
+p952
+ssS'NCT01961492'
+p953
+(dp954
+g6
+S'Ulcerative Colitis'
+p955
+sg8
+S'Other|Fecal microbiota transplantation|A single fecal microbiota transplantation through colonoscope|Fecal microbiota transplantation|'
+p956
+ssS'NCT01111708'
+p957
+(dp958
+g6
+S'Ulcerative Colitis'
+p959
+sg8
+S'Procedure|Close Rectal Dissection - IPAA|Comparison between conventional IPAA and Close Rectal IPAA and INRA after (sub)total proctocolectomy for Ulcerative colitis|Close Rectal-Ileo Pouch Anal Anastomosis,Conventional Ileo Pouch Anal Anastomosis,Ileo Neo Rectal Anastomosis|INRA, IPAA, restorative surgery'
+p960
+ssS'NCT02087878'
+p961
+(dp962
+g6
+S"Crohn's Disease|Ulcerative Colitis|Hepatosplenic T-Cell Lymphoma"
+p963
+sg8
+g29
+ssS'NCT02463305'
+p964
+(dp965
+g6
+S'Colitis, Ulcerative'
+p966
+sg8
+S'Drug|Creatine monohydrate||Treatment arm,Optional Open-Label Treatment arm|\n\nOther|Placebo||Placebo arm|Dextrose'
+p967
+ssS'NCT02646683'
+p968
+(dp969
+g6
+S'Crohn Disease'
+p970
+sg8
+S"Drug|vedolizumab||Early Crohn's disease,Late Crohn's disease|Entyvio"
+p971
+ssS'NCT02065557'
+p972
+(dp973
+g6
+S'Ulcerative Colitis'
+p974
+sg8
+S'Biological|Adalimumab|Subcutaneous (SC) injection|Adalimumab|\n\nOther|Placebo|Placebo|Placebo|'
+p975
+ssS'NCT01149707'
+p976
+(dp977
+g6
+S'Left-Sided Ulcerative Colitis|Proctosigmoiditis'
+p978
+sg8
+S'Drug|PUR 0110 Rectal Enema 250 mg|PUR 0110 Rectal Enema 250 mg, once-daily, intrarectally|PUR 0110 Rectal Enema 250 mg|\n\nDrug|PUR 0110 Rectal Enema 500 mg|PUR 0110 Rectal Enema 500 mg, once-daily, intrarectally|PUR 0110 Rectal Enema 500 mg|\n\nDrug|PUR 0110 Rectal Enema 1000 mg|PUR 0110 Rectal Enema 1000 mg, once-daily, intrarectally|PUR 0110 Rectal Enema 1000 mg|\n\nDrug|Placebo Enema|Placebo Enema, once-daily, intrarectally|Placebo Enema|'
+p979
+ssS'NCT01417715'
+p980
+(dp981
+g6
+S'Crohn\xc2\xb4s Disease|Ulcerative Colitis'
+p982
+sg8
+S'Device|Endomicroscopy|Patients will undergo advanced endoscopic imaging using endomicroscopy. Findings will be compared to histopathological and clinical results.|Crohn\xc2\xb4s disease - active,Crohn\xc2\xb4s disease - quiescent,Ulcerative colitis - active,Ucerative colitis - quiescent|'
+p983
+ssS'NCT01862211'
+p984
+(dp985
+g6
+S'Children With a Deficiency of Alpha-1 Antitrypsin'
+p986
+sg8
+S'Other|blood sampling|A blood sampling will be performed for the genetic analysis and the measurement of serum IL-8.|members of family of children with a DA1AT,children with a DA1AT|'
+p987
+ssS'NCT01024647'
+p988
+(dp989
+g6
+S"Crohn's Disease"
+p990
+sg8
+S'Biological|certolizumab pegol|certolizumab pegol 200 mg every 2 weeks|Loss of Reponse Reinduction Responders|Cimzia\n\nBiological|certolizumab pegol|certolizumab pegol 400 mg every 2 weeks|Response loss Reinduction Non-Responders|Cimzia\n\nBiological|certolizumab pegol|certolizumab pegol 400 mg every 4 weeks|Responders|Cimzia\n\nBiological|certolizumab pegol|certolizumab pegol 400 mg every 2 weeks|Non-Responders|Cimzia'
+p991
+ssS'NCT00513552'
+p992
+(dp993
+g6
+S"Crohn's Disease"
+p994
+sg8
+S'Drug|Rifabutin, Clarithromycin, and Clofazimine|Rifabutin 150 mg by mouth twice daily, Clarithromycin 250 mg by mouth twice a day, and Clofazimine 100 mg by mouth each morning||'
+p995
+ssS'NCT02202967'
+p996
+(dp997
+g6
+S'Chronic Arthritis|Ischemic Heart Disease|Atrial Fibrillation|Anemia|Bleeding'
+p998
+sg8
+S'Drug|Misoprostol|Misoprostol oral tablets/ capsules contain 200 mcg of Misoprostol, a synthetic prostaglandin E1 analog|Misoprostol|Cytotec (R)\n\nDrug|Placebo|Placebo contains lactose granules|Placebo|Dummy drug'
+p999
+ssS'NCT02611830'
+p1000
+(dp1001
+g6
+S'Colitis, Ulcerative'
+p1002
+sg8
+S'Drug|Vedolizumab IV 300 mg||Vedolizumab SC 108 mg Maintenance Arm,Vedolizumab IV 300 mg Maintenance Arm,Placebo (IV and SC) Maintenance Arm|\n\nDrug|Placebo IV||Vedolizumab SC 108 mg Maintenance Arm,Placebo (IV and SC) Maintenance Arm|\n\nDrug|Vedolizumab SC 108 mg||Vedolizumab SC 108 mg Maintenance Arm|\n\nDrug|Placebo SC||Vedolizumab IV 300 mg Maintenance Arm,Placebo (IV and SC) Maintenance Arm|'
+p1003
+ssS'NCT01758926'
+p1004
+(dp1005
+g6
+S'Inflammatory Bowel Disease'
+p1006
+sg8
+g29
+ssS'NCT02326155'
+p1007
+(dp1008
+g6
+S"Crohn's Disease|Ulcerative Colitis"
+p1009
+sg8
+g29
+ssS'NCT02522780'
+p1010
+(dp1011
+g6
+S'Ulcerative Colitis'
+p1012
+sg8
+S'Drug|Mesalamine||Mesalamine|Mesalazine,Pentasa\n\nDrug|Placebo||Placebo.|'
+p1013
+ssS'NCT02330458'
+p1014
+(dp1015
+g6
+S"Inflammatory Bowel Disease|Crohn's Disease"
+p1016
+sg8
+S'Procedure|Small bowel ultrasound|Small Bowel Ultrasound will be performed by a single radiologist using an Acuson S2000 machine with 6 MHz convex and 9 MHz linear array transducers (Siemens, Germany). Participants will be asked to not eat for at least 8 hours prior to the ultrasound, and to drink 500ml of a fluid of their choice just prior to the SBUS, for bowel distension and better visualization. Bowel wall thickness (BWT), the length of any segment of thickened bowel wall >3mm, hyperemia using doppler, and the presence of free fluid, stricture, intestinal dilation, or enlarged lymph nodes will be documented||'
+p1017
+ssS'NCT02403323'
+p1018
+(dp1019
+g6
+S'Crohn Disease'
+p1020
+sg8
+S'Drug|etrolizumab|105 mg etrolizumab subcutaneous administration every 4 weeks|Part 1 Open-label Extension|'
+p1021
+ssS'NCT02745678'
+p1022
+(dp1023
+g6
+S'Colitis, Ulcerative'
+p1024
+sg8
+S'Drug|Thermosensitive gel rectal formulation||Thermosensitive gel formulation|'
+p1025
+ssS'NCT02193048'
+p1026
+(dp1027
+g6
+S"Crohn's Disease"
+p1028
+sg8
+S"Other|This study will evaluate a new clinical scoring system in patients receiving routine treatment|Treatment for Crohn's disease will be performed routinely based on the treating physicians clinical determination and patients' needs.|Patients newly diagnosed with Crohn's disease|"
+p1029
+ssS'NCT01266785'
+p1030
+(dp1031
+g6
+S"Crohn's Disease"
+p1032
+sg8
+S'Drug|Infliximab|Patient will receive Infliximab infusions during Weeks 0, 2 and 6. Therefore, the duration of the Infliximab treatment will last 6 weeks.||'
+p1033
+ssS'NCT02425111'
+p1034
+(dp1035
+g6
+S"Crohn's Disease"
+p1036
+sg8
+S'Drug|Vedolizumab|Vedolizumab intravenous injection|Vedolizumab 300 mg|MLN0002'
+p1037
+ssS'NCT02351635'
+p1038
+(dp1039
+g6
+S'Inflammatory Bowel Disease|Irritable Bowel Syndrome'
+p1040
+sg8
+S'Other|fecal calprotectin level|Stool sample collected by the subject, sent study laboratories where fecal calprotectin levels are quantified.|IBD,IBS,other GI disorders,pediatric,healthy controls|'
+p1041
+ssS'NCT02531126'
+p1042
+(dp1043
+g6
+S'Ulcerative Colitis'
+p1044
+sg8
+S'Drug|RPC1063||RPC0163 (Ozanimod)|Ozanimod'
+p1045
+ssS'NCT02263365'
+p1046
+(dp1047
+g6
+S'Dehydration, Diverting Ileostomy, Loperamide'
+p1048
+sg8
+S'Drug|Loperamide|Loperamide 12mg per day (4mg t.i.d) for 2 weeks post discharge|Therapeutic|'
+p1049
+ssS'NCT02466217'
+p1050
+(dp1051
+g6
+S"Healthy Volunteer|Rheumatoid Arthritis|Ankylosing Spondylitis|Systemic Lupus Erythematosus/Antiphospholipid Syndrome|FMF|Cryopyrin-Associated Periodic Syndromes /TNF-receptor Associated Periodic Syndrome|Vasculitis|Uveitis|Myositis|Crohn's Disease|Ulcerative Rectocolitis|Type 1 Diabetes|Unclassified IAD Knee and/or Hip Arthritis, Muscular Dystrophy"
+p1052
+sg8
+S'Other|1: AID groups|Clinical and Biological investigations|1: AID groups|\n\nOther|2: Control groups|Clinical and Biological investigations|2: Control groups|'
+p1053
+ssS'NCT01783106'
+p1054
+(dp1055
+g6
+S"Crohn's Disease"
+p1056
+sg8
+S'Drug|Ciprofloxacin|experimental|Ciprofloxacine, doxycycline and hydroxychloroquine|\n\nDrug|Doxycycline|experimental|Ciprofloxacine, doxycycline and hydroxychloroquine|\n\nDrug|Hydroxychloroquine|oral|Ciprofloxacine, doxycycline and hydroxychloroquine|\n\nDrug|Budesonide|active comparator|budesonide|Enterocort CR'
+p1057
+ssS'NCT01503099'
+p1058
+(dp1059
+g6
+S"Intestinal Tuberculosis|Pulmonary Tuberculosis|Crohn's Disease"
+p1060
+sg8
+g29
+ssS'NCT01657513'
+p1061
+(dp1062
+g6
+S'Psoriasis'
+p1063
+sg8
+S'Drug|subjects will receive either infliximab, adalimumab or etanercept|The subjects receive treatment with a tnf-alfa blocking according to the official guidelines for the particular drug.\nThe study subjects will receive treatment with one drug only -\ninfliximab or\nadalimumab or\netanercept\nThe consulting dermatologist decides which drug to use according to official guidelines|tnf-alfa treatment (infliximab, adalimumab, or etanercept)|infliximab,adalimumab,etanercept'
+p1064
+ssS'NCT01941589'
+p1065
+(dp1066
+g6
+S'Ulcerative Colitis'
+p1067
+sg8
+S'Drug|oral 5-ASA+/-topical 5-ASA+IV corticosteroids / PO Methylprednisolone|maximal oral 5-ASA+/-topical 5-ASA+IV corticosteroids|present 5-ASA arm 1,5-ASA naive arm 1|rafassal,pentasa,asacol,hydrocortisone,solu-cortef,methylprednisolone\n\nDrug|corticosteroids only|IV corticosteroids only|present 5-ASA arm 2,5-ASA naive arm 2|hydrocortisone,solu-cortef,methylprednisolone'
+p1068
+ssS'NCT01790061'
+p1069
+(dp1070
+g6
+S'Bacteria|Microbiota|Fecal Microbiota Transplantation|Inflammatory Bowel Disease|Ulcerative Colitis'
+p1071
+sg8
+S'Procedure|Standardized Fecal Microbiota Transplantation|Fecal microbiota transplantation by gastroscopy administration of fresh or frozen bacteria from healthy donor to the mid-gut (below the second part of duodenum).|Standardized Fecal Microbiota Transplantation|Fecal Microbiota Transplantation,Fecal Microbiota Therapy,fecal transplantation\n\nDrug|Traditional treatments according to associated guidelines|Traditional treatments according to associated guidelines|Traditional treatments|'
+p1072
+ssS'NCT01951326'
+p1073
+(dp1074
+g6
+S"Crohn's Disease"
+p1075
+sg8
+S'Drug|RHB-104|95 mg clarithromycin, 45 mg rifabutin, and 10 mg clofazimine|RHB-104|\n\nDrug|Placebo|5 placebo capsules administered orally BID|Placebo|'
+p1076
+ssS'NCT02742597'
+p1077
+(dp1078
+g6
+S"Hypertension|Depression|Anxiety|Musculoskeletal Pain|Arthritis|Rheumatoid Arthritis|Osteoporosis|Chronic Obstructive Pulmonary Disease (COPD)|Asthma|Chronic Bronchitis|Cardiovascular Disease|Heart Failure|Stroke|Transient Ischemic Attacks|Ulcer|Gastroesophageal Reflux|Irritable Bowel|Crohn's Disease|Ulcerative Colitis|Diverticulosis|Chronic Hepatitis|Diabetes|Thyroid Disorder|Cancer|Kidney Disease|Urinary Tract Problem|Dementia|Alzheimer's Disease|Hyperlipidemia|HIV|Multimorbidity"
+p1079
+sg8
+S"Behavioral|TIP / IMPACT Plus Care Coordination|The intervention will involve the patient attending an interdisciplinary team meeting, either through the Ontario Telemedicine Network's teleconferencing technology or in person, along with their caregiver(s), the referring practitioner, inter-professional (IP) teams and home care coordinators to discuss and uncover the patient's condition covering a diverse range of medical, functional and psycho-social issues and the development of a patient-centred treatment plan. The care plans are documented, shared, implemented and monitored by an assigned nurse from the program.|Group A,Group B|"
+p1080
+ssS'NCT01239082'
+p1081
+(dp1082
+g6
+S'Colorectal Cancer'
+p1083
+sg8
+S'Procedure|Colonoscopy|One time screening Colonoscopy to screen for colorectal cancer|Arm 1|\n\nProcedure|FIT|Annual FIT testing|Arm 2|'
+p1084
+ssS'NCT01169207'
+p1085
+(dp1086
+g6
+S'Inflammatory Bowel Disease'
+p1087
+sg8
+g29
+ssS'NCT01931644'
+p1088
+(dp1089
+g6
+S'All Diagnosed Health Conditions'
+p1090
+sg8
+g29
+ssS'NCT01015391'
+p1091
+(dp1092
+g6
+S"Crohn's Disease"
+p1093
+sg8
+S'Drug|T2|1.5mg/kg/day, PO (per oral),three times a day: until progression or unacceptable toxicity develops|T2|\n\nDrug|Azathioprine|2.5mg/kg, PO (per oral) one time a day:until progression or unacceptable toxicity develops the first month:1.5mg/kg,PO,one time a day the second month:2.0mg/kg,PO,one time a day since the third month:2.5mg/kg,PO,one time a day|AZA|'
+p1094
+ssS'NCT02200445'
+p1095
+(dp1096
+g6
+S'Ulcerative Colitis'
+p1097
+sg8
+S'Drug|Interleukin-2 (aldesleukin).|Description of intervention is covered in "Arm", above.|Interleukin-2|Proleukin.'
+p1098
+ssS'NCT00353756'
+p1099
+(dp1100
+g6
+S"Crohn's Disease"
+p1101
+sg8
+S'Drug|C326, IL-6 Inhibitory Avimer protein|||'
+p1102
+ssS'NCT01739608'
+p1103
+(dp1104
+g6
+S'Colorectal Cancer'
+p1105
+sg8
+S'Other|Invitation to screening|Invitation to screening|CT Colonography (CTC),Sigmoidoscopy (FS)|'
+p1106
+ssS'NCT02098798'
+p1107
+(dp1108
+g6
+S'Inflammatory Bowel Disease'
+p1109
+sg8
+S'Procedure|HD Colonoscopy|High definition colonoscopy procedure in surveillance colonoscopy|HD|\n\nProcedure|HD Colonoscopy + iSCAN||HD + iSCAN|\n\nProcedure|HD Colonoscopy + dye spray||HD + Dye|'
+p1110
+ssS'NCT02752360'
+p1111
+(dp1112
+g6
+S'Colonic Neoplasms|Diverticulosis, Colonic|Crohn Disease'
+p1113
+sg8
+S'Procedure|Biodegradable Stenting Anastomoses|Biodegradable Stenting Anastomoses(BSA) is a new method and device which helps to make intestinal anastomosis easily. According to the measurement of intestinal canal diameter, chose an appropriate size of BSA and use the Seromuscular layer Purse-string Suture to stitch with an absorbable line (VCP311, Ethicon, Inc.) away from the end 0.5 to 1.0 cm and not knot temporarily, then open and sterilize intestinal canal fully, and place the BSA into the intestinal canal at appropriate position before tightening knot. Last, the interrupted whole layer inversion suture is used to fix.|BSA Group|\n\nProcedure|Double-layer Hand Sutures|Double-layer Hand Sutures(DHS)is a surgery way that is to use the single-layer continous Hand Sutures,then Lembert to stitch with an absorbable line (VCP311, Ethicon, Inc.).|DHS Group|'
+p1114
+ssS'NCT02683733'
+p1115
+(dp1116
+g6
+S'Ulcerative Colitis'
+p1117
+sg8
+S"Dietary Supplement|Bio-enhanced Curcumin Soft Gelatin Capsule|Each capsule is a bio-enhanced modification of curcumin (diferuloylmethane), which is a derivative of curcuma longa (rhizome extract)|Treatment Arm|Valdone\n\nDrug|5-Aminosalicylic acid|Dosage is as instructed by patient's physician|Treatment Arm,Control Arm|5-ASA"
+p1118
+ssS'NCT01063309'
+p1119
+(dp1120
+g6
+S'Chronic Granulomatous Disease (CGD)'
+p1121
+sg8
+g29
+ssS'NCT01671579'
+p1122
+(dp1123
+g6
+S'Crohn Disease'
+p1124
+sg8
+S'Procedure|Bowel ultrasound|The ultrasound imaging will take place prior to the clinically ordered MRE exam. The subject will be asked to lie on the ultrasound table for approximately 60 minutes while a variety of ultrasound images are completed.|Pediatric small bowel Crohn disease|abdominal ultrasound imaging,ultrasound elasticity imaging\n\nProcedure|magnetic resonance enterography (MRE)|The subject will have a small intravenous (IV) catheter placed in on of their arms before the MRE exam. Medications called Glucagon and MultiHance will be given thru the IV catheter during the imaging study. The glucagon will decrease the movement of the intestines, which helps provide better images of the bowel. MultiHance is a contrast that helps create clearer MRE images. In addition to the MultiHance, the subject will be given an oral contrast medication called VoLumen to drink approximately 45 minutes before the MRE imaging is started. These medications are used for all clinically necessary MRE studies performed in children and adults at the UMHS. The MRE will take approximately 50 to 60 minutes to complete.|Pediatric small bowel Crohn disease|'
+p1125
+ssS'NCT01947816'
+p1126
+(dp1127
+g6
+S'Ulcerative Colitis'
+p1128
+sg8
+g29
+ssS'NCT01858220'
+p1129
+(dp1130
+g6
+S'Gastroparesis'
+p1131
+sg8
+g29
+ssS'NCT02378688'
+p1132
+(dp1133
+g6
+S"Crohn's Disease"
+p1134
+sg8
+S'Drug|MT-1303||MT-1303|\n\nDrug|Placebo||Placebo|'
+p1135
+ssS'NCT01756963'
+p1136
+(dp1137
+g6
+S'Inflammatory Bowel Disease'
+p1138
+sg8
+g29
+ssS'NCT00603616'
+p1139
+(dp1140
+g6
+S"Crohn's Disease"
+p1141
+sg8
+S'Drug|Placebo Comparator|Matching oral placebo pills to be taken twice daily for a total of 8 weeks|1|\n\nDrug|Rifaximin|Oral rifaximin 550mg to be taken twice daily for a total of 8 weeks|2|Xifaxan'
+p1142
+ssS'NCT01536509'
+p1143
+(dp1144
+g6
+S"Crohn's Disease|Ulcerative Colitis|Indeterminate Colitis|Inflammatory Bowel Disease"
+p1145
+sg8
+S"Behavioral|Telehealth Behavioral Treatment (TBT)|Families in the TBT condition will receive three individually-tailored behavioral intervention sessions in addition to the online education intervention with 1) guided problem-solving and behavior management training tailored to the unique needs and/or barriers of the family, and 2) discussion of the patient's adherence since the previous session. In addition, patients in the TBT condition will be signed up for text message reminder service offered free of charge via www.mymedschedule.com. These are generic reminder text messages are used to assist with adherence in adolescents. Intervention sessions will be conducted via telehealth delivery with trained postdoctoral psychology fellows or masters-level graduates using webcams, supplied by the study, and SkypeTM free software.|Telehealth Behavioral Treatment|\n\nBehavioral|Education Only (EO)|Families in the EO condition will receive three individual sessions in addition to the online education intervention to review 1) online educational intervention material to answer questions participants have, 2) educational brochures from the Crohn's and Colitis Foundation of America (CCFA), which contain additional information (e.g., Guide for Parents, Living with IBD, Guide for Kids and Teenagers), and 3) general healthy lifestyle recommendations (e.g., sleep, exercise, etc.). Sessions will be conducted via telehealth delivery with trained postdoctoral clinical psychology fellows or masters-level graduates using webcams, supplied by the study, and SkypeTM free software.|Education Only|"
+p1146
+ssS'NCT02461784'
+p1147
+(dp1148
+g6
+S'Inflammatory Bowel Disease (IBD)'
+p1149
+sg8
+S'Procedure|Semen & Data Collection|If participants decide to participate in this research they will be asked to complete the informed consent process as well as asked a few questions such as age and race/ethnicity. If participants volunteered for this study because tehy have IBD, investigators will also collect some information from the participants medical record. Completing this portion of participation will take less than 1 hour.\nParticipants will then be scheduled to complete the semen collection at the UW Health Generations Fertility Clinic located at 2365 Deming Way in Middleton, WI. This collection visit will take less than 1 hour to complete. Once participants have finished the collection visit they will have completed their participation in this research project.|Case,Control|'
+p1150
+ssS'NCT02332356'
+p1151
+(dp1152
+g6
+S'Crohn Disease'
+p1153
+sg8
+S'Drug|azathioprine or adalimumab and infliximab||step up,step down|'
+p1154
+ssS'NCT02506179'
+p1155
+(dp1156
+g6
+S'Ulcerative Colitis'
+p1157
+sg8
+g29
+ssS'NCT01509976'
+p1158
+(dp1159
+g6
+S'Triclosan Effects on Microbial Flora.'
+p1160
+sg8
+S'Other|triclosan/triclocarban-containing personal care products|Subjects will be randomly assigned to one of two arms with either triclosan/triclocarban-containing personal care products or products without triclosan/triclocarban. After 5 months, each subject will cross over to the other arm.|Red,Blue|'
+p1161
+ssS'NCT02245594'
+p1162
+(dp1163
+g6
+S"Crohn's Disease|Inflammatory Bowel Disease|Sleep Disturbances"
+p1164
+sg8
+g29
+ssS'NCT02423460'
+p1165
+(dp1166
+g6
+S"Ulcerative Colitis|Crohn's Disease|Healthy"
+p1167
+sg8
+S"Other|Threonine|Threonine will be fed at various intake levels ranging from high to low in order to determine its requirement in healthy males and in patients with Crohn's disease and Ulcerative colitis.|Threonine requirement|amino acid"
+p1168
+ssS'NCT02033408'
+p1169
+(dp1170
+g6
+S"Exacerbation of Ulcerative Colitis|Ulcerative Colitis, Active Severe|Crohn's Colitis"
+p1171
+sg8
+S'Drug|AB (antibiotics)|PO Vancomycin 250mgX4/d for 3 weeks\nPO Amoxycillin 50mg/Kg divided by 3 (up to 500mgX3/d) - for 3 weeks\nPO Doxycycline 2mg/kg X2/d (up to 100mgX2/d) - for 3 weeks; OR- For children younger than 8 years: PO Ciprofloxacin 10mg/Kg X2/2 (up to 250mgX2/d) for 3 weeks\nPatients with known allergy to one of the drugs may be treated with oral Gentamycin (2.5mg/KgX3/d) for 3 weeks instead of the allergenic drug.|Antibiotics in addition to steroids,Open arm|Ciprofloxacin-Ciprodex\xc2\xae,Doxycycline-Doxylin\xc2\xae,Gentamycin-Gentamicin\xc2\xae,Amoxicillin-Amoxyclav\xc2\xae,Vancomycin-Vanco-Teva\xc2\xae\n\nDrug|CS (corticosteroids) Only|methylprednisolone (1.5mg/kg up to 60mg daily in two divided doses)\nPO Metronidazole 5mg/Kg X3/d (up to 250mgX3/d) - for 3 weeks|Steroids only,Open arm|Metronidazole-Flagyl\xc2\xae'
+p1172
+ssS'NCT01392365'
+p1173
+(dp1174
+g6
+S"Crohn's Disease|Intestinal Tuberculosis"
+p1175
+sg8
+g29
+ssS'NCT00516776'
+p1176
+(dp1177
+g6
+S"Ulcerative Colitis|Crohn's Disease"
+p1178
+sg8
+g29
+ssS'NCT00915044'
+p1179
+(dp1180
+g6
+S'Inflammatory Bowel Disease'
+p1181
+sg8
+g29
+ssS'NCT01458574'
+p1182
+(dp1183
+g6
+S'Ulcerative Colitis'
+p1184
+sg8
+S'Drug|Placebo|Placebo 10 mg orally (PO) twice a day (BID)|Placebo Comparator|\n\nDrug|CP690,550|CP-690,550 5 mg orally (PO) twice a day (BID)|CP-690,550 5 mg Arm|\n\nDrug|CP-690,550|CP-690,550 10 mg orally (PO) twice a day (BID)|CP-690,550 10 mg Arm|'
+p1185
+ssS'NCT02318667'
+p1186
+(dp1187
+g6
+S'Colitis, Ulcerative'
+p1188
+sg8
+S'Biological|Golimumab|Golimumab is a fully human anti-TNFalpha monoclonal antibody that will be administered SC.|Golimumab treatment|SIMPONI'
+p1189
+ssS'NCT02434133'
+p1190
+(dp1191
+g6
+S'Inflammatory Bowel Disease (IBD)'
+p1192
+sg8
+S'Procedure|Blood Draw/Data Collection|Participation will involve an extra 8ml tube of blood and a review of their medical records for medications and immunization history.|Case (Group A),Case (Group B),Case (Group C),Control|'
+p1193
+ssS'NCT02745457'
+p1194
+(dp1195
+g6
+S"Crohn's Disease|Ulcerative Colitis"
+p1196
+sg8
+g29
+ssS'NCT00886327'
+p1197
+(dp1198
+g6
+S"Crohn's Disease"
+p1199
+sg8
+S'Procedure|Colonic capsule endoscopy||Postoperative patients|'
+p1200
+ssS'NCT02164877'
+p1201
+(dp1202
+g6
+S"Crohn's Disease"
+p1203
+sg8
+S'Drug|pectin|Patients allocated to experiment group will receive 15g pectin each day|pectin|soluble dietary fiber'
+p1204
+ssS'NCT02435992'
+p1205
+(dp1206
+g6
+S'Ulcerative Colitis'
+p1207
+sg8
+S'Drug|RPC1063||RPC1063 (Ozanimod)|\n\nDrug|Placebo||Placebo|'
+p1208
+ssS'NCT00599625'
+p1209
+(dp1210
+g6
+S"Crohn's Disease"
+p1211
+sg8
+S'Drug|Pravastatin|80mg administered daily for 6 consecutive weeks|1|'
+p1212
+ssS'NCT02135289'
+p1213
+(dp1214
+g6
+S'Inflammatory Bowel Disease|Crohn Disease|Ulcerative Colitis|Tuberculosis|Immune-mediated Inflammatory Disease'
+p1215
+sg8
+g29
+ssS'NCT02129972'
+p1216
+(dp1217
+g6
+S'Inflammatory Bowel Disease'
+p1218
+sg8
+S'Device|Colon videocapsule endoscopy (PillCam colon 2)|This is a simple blind (blind for the lecture of the CVC record) study to evaluate the diagnostic value of the colon capsule endoscopy for the detection and the control of colon lesions, the feasibility, tolerance and safety of the CVC compared to the conventional colonoscopy under general sedation in children presented with Inflammatory Bowel Disease.\nOver one week, the patient will undergo two exams (CVC and colonoscopy under general sedation). The exams will be done by two different physicians.\nIn order to assess the tolerance, after the completion of both exams, the patients will be asked to answer a "comfort score" questionnaire.\nIn order to assess the safety of the CVC, the patients will have a follow-up for adverse events over a 3 weeks period after completion of the CVC and only if the colon video capsule was not recovered during the conventional colonoscopy.|video capsule endoscopy|PillCam colon 2'
+p1219
+ssS'NCT01959087'
+p1220
+(dp1221
+g6
+S"Colonic Neoplasms|Crohn's Disease|Diverticulitis"
+p1222
+sg8
+S'Procedure|single port surgery|Single port surgery can be converted in multiport surgery if necessary|1: Single port surgery|\n\nProcedure|Multiport surgery||1: Single port surgery,2: Multiport surgery|'
+p1223
+ssS'NCT02598414'
+p1224
+(dp1225
+g6
+S'Colon Neoplasms|Rectal Neoplasms|Inflammatory Bowel Disease|Diverticular Disease'
+p1226
+sg8
+S'Procedure|Near-infrared ICG fluorescence imaging|Patient will have their bowel anastomosis assessed intraoperatively by near-infrared technology after indocyanine green has been injected intravenously at a concentration of 2.5 mg/ml. This procedure will be repeated twice during surgery, the first time before and the second time after the anastomosis has been done. The microvascularization at the anastomosis site will be assessed using a robotic fluorescence imaging device (FireFly\xe2\x84\xa2).|Bowel Anastomosis Under ICG Guidance|Near-infrared fluorescence imaging,Indocyanine green\n\nProcedure|Traditional bowel anastomosis|Traditional bowel anastomosis will be performed without ICG fluorescence imaging.|Standard Bowel Anastomosis|\n\nDevice|FireFly\xe2\x84\xa2|The microvascularization at the anastomosis site will be assessed using a robotic fluorescence imaging device (FireFly\xe2\x84\xa2).|Bowel Anastomosis Under ICG Guidance|'
+p1227
+ssS'NCT02437591'
+p1228
+(dp1229
+g6
+S'Inflammatory Bowel Disease (IBD)|Clostridium Difficile Infection (CDI)'
+p1230
+sg8
+S'Drug|fidaxomicin|oral|fidaxomicin|PAR-101,OPT-80,Dificlir,ASP2819'
+p1231
+ssS'NCT01494857'
+p1232
+(dp1233
+g6
+S'Ulcerative Colitis'
+p1234
+sg8
+S'Drug|Adalimumab|Adalimumab 40 mg from 4 to 1 injection once in two weeks. Total Treatment period - 10 weeks.|Adalimumab|Brand name - Humira (Abbott Pharmaceuticals)'
+p1235
+ssS'NCT02281916'
+p1236
+(dp1237
+g6
+S"Crohn's Ileocolitis"
+p1238
+sg8
+S'Drug|P28GST|3 injections of 100 \xc2\xb5g of P28GST within 3 months (one injection per month)|P28GST treatment|immunotherapy'
+p1239
+ssS'NCT01171807'
+p1240
+(dp1241
+g6
+S'Ulcerative Colitis'
+p1242
+sg8
+S'Drug|Dexamethasone 21-phosphate|6 monthly infusions of dexamethasone 21-phosphate loaded into autologous erythrocytes|Dexamethasone 21-phosphate encapsulated into red cells,Placebo|'
+p1243
+ssS'NCT02760836'
+p1244
+(dp1245
+g6
+S"Crohn's Disease"
+p1246
+sg8
+g29
+ssS'NCT01388257'
+p1247
+(dp1248
+g6
+S'Crohn Disease|Fistula|Anoperineal Fistula|Anal Fistula'
+p1249
+sg8
+S'Procedure|All types of surgery procedures|All types of surgery procedures used for anoperineal fistula repair. Surgery procedures include fistulotomy, biological glue, rectal advancement flap and plug.|Surgery|\n\nProcedure|Simple seton drain removal|Patients are simply followed after seton drain removal.|Simple seton drain removal|'
+p1250
+ssS'NCT02150551'
+p1251
+(dp1252
+g6
+S'Inflammatory Bowel Diseases'
+p1253
+sg8
+S'Biological|Allogeneic bone marrow-derived mesenchymal stromal cells|A fixed dose will be studied: 1 x 106 cells/kg administered intravenously (IV) weekly for 8 consecutive weeks. Toxicity will be monitored, using the department specific Standard Operating Procedure (SOP).|Fixed dose|'
+p1254
+ssS'NCT02704026'
+p1255
+(dp1256
+g6
+S'Inflammatory Bowel Disease'
+p1257
+sg8
+S'Other|Assesment of nutritional status and body composition|At the time of enrollment and after 1 year, anthropometric measurements and assessment of body composition by bioelectrical impedance will be performed for each child|Inflammatory Bowel Disease,Control|'
+p1258
+ssS'NCT00001184'
+p1259
+(dp1260
+g6
+S'Inflammatory Bowel Disease'
+p1261
+sg8
+g29
+ssS'NCT02488005'
+p1262
+(dp1263
+g6
+S"Crohn's Disease"
+p1264
+sg8
+S'Device|Ultrasound|An ultrasound of the small bowel will be done by a radiologist or ultrasound technician. Subject should not eat or drink anything (i.e. no food and no water/beverages) for 8 hours prior to their ultrasound appointment|Small Bowel Ultrasound|'
+p1265
+ssS'NCT02073526'
+p1266
+(dp1267
+g6
+S"Inflammatory Bowel Disease|Crohn's Disease|Ulcerative Colitis"
+p1268
+sg8
+S'Drug|Infliximab, adalimumab, certolizumab pegol|Patients are treated with the above mentioned drugs decided by clinicians|Anti-TNF|'
+p1269
+ssS'NCT02130349'
+p1270
+(dp1271
+g6
+S'IBD|Crohns Disease|Ulcerative Colitis'
+p1272
+sg8
+g29
+ssS'NCT01804166'
+p1273
+(dp1274
+g6
+S'Hepatosplenic T-Cell Lymphoma'
+p1275
+sg8
+S'Biological|Collection of samples|There is no study-related therapeutic intervention and this protocol will not restrict or introduce any therapeutic interventions, including medications.|IBD patients with HSTCL|'
+p1276
+ssS'NCT02423512'
+p1277
+(dp1278
+g6
+S"Inflammatory Bowel Disease|Crohn's Disease|Ulcerative Colitis"
+p1279
+sg8
+g29
+ssS'NCT02016469'
+p1280
+(dp1281
+g6
+S'Inflammatory Bowel Disease'
+p1282
+sg8
+S'Other|co-transplantation of FMT and pectin|300ml Bacterial suspension (from 60g fresh stool )for fecal microbiota transplantation the first day and 20g pectin given continuously for total five days|co-transplantation of FMT and pectin|\n\nOther|single fecal microbiota transplantation|single fecal microbiota transplantation once the first day|single fecal microbiota transplantation|\n\nDietary Supplement|pure give pectin 20g/d for five days|pure give pectin 20g/d for five days|give pectin 20g/d|'
+p1283
+ssS'NCT02186886'
+p1284
+(dp1285
+g6
+S'Ulcerative Colitis'
+p1286
+sg8
+S'Drug|Golimumab|Physiological Intermolecular Modification Spectroscopy|Golimumab|'
+p1287
+ssS'NCT02382705'
+p1288
+(dp1289
+g6
+S'Capsule Endoscopy'
+p1290
+sg8
+g29
+ssS'NCT01551563'
+p1291
+(dp1292
+g6
+S'IBD'
+p1293
+sg8
+g29
+ssS'NCT02421705'
+p1294
+(dp1295
+g6
+S"IBS|Ulcerative Colitis, Active|Ulcerative Colitis, Remission (3a: With IBS Symptoms, 3b: Without IBS Symptoms)|Healthy Controls|Crohn's Disease, Active|Crohn's Disease, Remission (6a: With IBS Symptoms, 6b: Without IBS Symptoms)"
+p1296
+sg8
+S'Other|Sample collection|Collection of blood, feces samples, sample of nasal mucosa and biopsies (rectum and colon descendens), questionnaires and performance of rectal sensitivity measurement (barostat), MR scan of brain and transit measurement of colon|Sample collection|'
+p1297
+ssS'NCT02227602'
+p1298
+(dp1299
+g6
+S'Intestinal Diseases'
+p1300
+sg8
+S'Dietary Supplement|Mango polyphenolics|Frozen mango pack will be provided (200~400g per day).|Mango beverage|\n\nDietary Supplement|sugary beverage|15.7g sugar, 3.8g pectin and 0.05g citric acid was added in 100ml of the control beverage.|sugary beverage|'
+p1301
+ssS'NCT02136069'
+p1302
+(dp1303
+g6
+S'Ulcerative Colitis'
+p1304
+sg8
+S'Drug|etrolizumab|105 mg administered by subcutaneous injection every four weeks until Week 52|etrolizumab + placebo (IV)|\n\nDrug|infliximab|5 mg/kg of infliximab will be administered by intravenous (IV) infusion at Weeks 0, 2, and 6 and then every 8 weeks until Week 46.|infliximab + placebo (injection)|\n\nOther|placebo (IV)|Administered by intravenous (IV) infusion at Weeks 0, 2, and 6 and then every 8 weeks until Week 46.|etrolizumab + placebo (IV)|\n\nOther|placebo (injection)|administered by subcutaneous injection every four weeks until Week 52|infliximab + placebo (injection)|'
+p1305
+ssS'NCT02586259'
+p1306
+(dp1307
+g6
+S'Ulcerative Colitis'
+p1308
+sg8
+S'Drug|budesonide MMX\xc2\xae||Cortiment\xc2\xae|Cortiment\xc2\xae'
+p1309
+ssS'NCT02531113'
+p1310
+(dp1311
+g6
+S"Crohn's Disease"
+p1312
+sg8
+S'Drug|RPC1063||RPC1063 (Ozanimod)|Ozanimod'
+p1313
+ssS'NCT02520284'
+p1314
+(dp1315
+g6
+S'Ulcerative Colitis'
+p1316
+sg8
+S'Biological|GS-5745|GS-5745 150 mg administered subcutaneously|GS-5745 weekly (Cohort 1),GS-5745 every 2 weeks (Cohort 1),Placebo (Cohort 1),GS-5745 (Cohort 2),GS-5745 every 2 weeks (Cohort 2),Placebo (Cohort 2),Extended Treatment Phase|\n\nBiological|Placebo|GS-5745 placebo administered subcutaneously|GS-5745 every 2 weeks (Cohort 1),Placebo (Cohort 1),GS-5745 every 2 weeks (Cohort 2),Placebo (Cohort 2)|'
+p1317
+ssS'NCT02464020'
+p1318
+(dp1319
+g6
+S'Primary Sclerosing Cholangitis|Inflammatory Bowel Disease'
+p1320
+sg8
+S'Drug|Vancomycin|Oral vancomycin: 500mg suspended in prefilled syringes for oral use|primary sclerosing cholangitis|'
+p1321
+ssS'NCT02177071'
+p1322
+(dp1323
+g6
+S"Crohn's Disease"
+p1324
+sg8
+S'Drug|INFLIXIMAB||STOP INFLIXIMAB CONTINUING ANTI METABOLITE|\n\nDrug|AZATHIOPRINE||CONTINUING INFLIXIMAB AND discontinuing anti-metabolites|\n\nDrug|MERCAPTOPURINE||CONTINUING INFLIXIMAB AND discontinuing anti-metabolites|\n\nDrug|Methotrexate||CONTINUING INFLIXIMAB AND discontinuing anti-metabolites|'
+p1325
+ssS'NCT02412085'
+p1326
+(dp1327
+g6
+S'Colitis, Ulcerative'
+p1328
+sg8
+S'Drug|Golimumab|Subcutaneous golimumab. Induction regimen: 200 mg (week 0), 100 mg (week 2)\nMaintenance regimen:\nbody weight < 80kg: 50 mg every 4 weeks\nbody weight \xe2\x89\xa5 80 kg: 100 mg every 4 weeks|Golimumab|Simponi'
+p1329
+ssS'NCT01569503'
+p1330
+(dp1331
+g6
+S"Crohn's Disease"
+p1332
+sg8
+S"Device|vagus nerve stimulation (VNS)|VNS therapy consists of an implanted pacemaker-like device that delivers mild, intermittently pulsed signals to the patient's left vagus nerve. Roughly the size of a small pocket-watch and weighing less than one ounce, the pulse generator is implanted in the patient's left chest area. A thin thread-like wire, attached to the generator, runs under the skin to the left vagus nerve in the neck|VSN|"
+p1333
+ssS'NCT01686477'
+p1334
+(dp1335
+g6
+S'Adiposity|Insulin Resistance|Metabolomic Profile|microRNA Profile'
+p1336
+sg8
+S"Other|Unfortified Human donor Milk used to make up any shortfall in mother's own milk||Unfortified Human Donor Milk|\n\nOther|Fortified Human donor Milk used to make up any shortfall in mother's own milk||Fortified Human Donor Milk|\n\nOther|Preterm Formula used when there is a shortfall in mother's own milk||Preterm Formula|"
+p1337
+ssS'NCT02229344'
+p1338
+(dp1339
+g6
+S'Colitis, Ulcerative'
+p1340
+sg8
+S'Other|No Intervention|Participants with newly diagnosed moderate to severe ulcerative colitis in a tertiary referral hospital within 4 weeks before prior to enrollment will be observed.|Newly Diagnosed Moderate to Severe Ulcerative Colitis|'
+p1341
+ssS'NCT02084290'
+p1342
+(dp1343
+g6
+S"Crohn's Disease"
+p1344
+sg8
+S'Behavioral|Shared Decision Making Program|This study is cluster randomized by study-site, Subjects enrolled at intervention sites will access an educational program and risk prediction tool. Their decisions about treatments will be compared to subjects that did not view the educational program or risk prediction tool.|Shared Decision Making Program|'
+p1345
+ssS'NCT01632462'
+p1346
+(dp1347
+g6
+S"Crohn's Disease"
+p1348
+sg8
+S'Drug|VSL#3|This investigation will be a randomized, double-blind, placebo-controlled, cross-over trial. The study will include 30 children with CD and will be articulated in 6 months as follows. These children will be randomised to a treatment group receiving for 2 months either 1-2 packet containing 900 billion bacteria/day of VSL#3 according to their weight, and a group receiving the placebo drug. Assignment to therapy or placebo will be determined according to a computer-generated randomization scheme.. At the completion of the 8 weeks, a "wash-out" period of 6 weeks will be done, when no preparation will be administered. Then each patient will be switched to the other group and followed likewise for further 8 weeks.|VSL#3 arm,placebo group|'
+p1349
+ssS'NCT02550418'
+p1350
+(dp1351
+g6
+S'Colitis, Ulcerative'
+p1352
+sg8
+S'Drug|Budesonide||Budesonide|'
+p1353
+ssS'NCT02469103'
+p1354
+(dp1355
+g6
+S'Colitis, Ulcerative'
+p1356
+sg8
+S'Device|C2 videos|C2 and colonoscopy will be performed one after another on the same day|C2 & colonoscopy|\n\nProcedure|colonoscopy||C2 & colonoscopy|'
+p1357
+ssS'NCT00161148'
+p1358
+(dp1359
+g6
+S'Primary Sclerosing Cholangitis'
+p1360
+sg8
+S'Drug|Probiotics|||'
+p1361
+ssS'NCT02265588'
+p1362
+(dp1363
+g6
+S"Inflammatory Bowel Disease (IBD)|Ulcerative Colitis|Crohn's Disease|Anxiety|Depression"
+p1364
+sg8
+S'Behavioral|Cognitive behavioral therapy|A disease specific cognitive behavioral therapy program called PASCET-PI: The PASCET-PI model focuses on behavioral activation, cognitive restructuring and problem solving skills to change maladaptive behaviors, cognitions and coping strategies specific for IBD.|Cognitive Behavioral Therapy|'
+p1365
+ssS'NCT00731172'
+p1366
+(dp1367
+g6
+S'Crohns Disease'
+p1368
+sg8
+S'Drug|glatiramer acetate|20 mg daily subcutaneous injection through week 12|1|\n\nDrug|placebo|subcutaneous daiky injection through week 12|2|'
+p1369
+ssS'NCT02580617'
+p1370
+(dp1371
+g6
+S"Crohn's Disease"
+p1372
+sg8
+S"Biological|ALLO-ASC|Infusion for Crohn's disease|ALLO-ASC|ALLO-ASC-CD"
+p1373
+ssS'NCT01752361'
+p1374
+(dp1375
+g6
+S'Ulcerative Colitis'
+p1376
+sg8
+S'Device|Motilis-3D transit||Ulcerative Colitis|'
+p1377
+ssS'NCT02308917'
+p1378
+(dp1379
+g6
+S'Inflammatory Bowel Diseases|Crohn|Ulcerative Colitis'
+p1380
+sg8
+g29
+ssS'NCT02438410'
+p1381
+(dp1382
+g6
+S'Colitis, Ulcerative|Inflammatory Bowel Disease|IBD'
+p1383
+sg8
+g29
+ssS'NCT02488954'
+p1384
+(dp1385
+g6
+S'Ulcerative Colitis'
+p1386
+sg8
+S'Other|Probiotics in the form of cheese portion||Probiotics|'
+p1387
+ssS'NCT01768858'
+p1388
+(dp1389
+g6
+S'Rheumatoid Arthritis|Ankylosing Spondylitis|Psoriatic Arthritis|Crohn\xc2\xb4s Disease|Ulcerative Colitis|Plaque Psoriasis'
+p1390
+sg8
+g29
+ssS'NCT02086968'
+p1391
+(dp1392
+g6
+S'Iron Deficiency Anemia (IDA) Secondary to Inflammatory Bowel Disease (IBD) or Gastric Bypass'
+p1393
+sg8
+S'Drug|Injectafer|2 doses of Injectafer, at 15mg/kg for a maximum single dose of 750mg given on days 0 and 7 for a total of up to 1500mg|Injectafer|Ferric Carboxymaltose (FCM)\n\nDrug|Ferrous Sulfate tablets|325mg (1 tablet) three times a day for 28 days|Ferrous Sulfate tablets|Oral Iron tablets'
+p1394
+ssS'NCT00488085'
+p1395
+(dp1396
+g6
+S'Crohn\xe2\x80\x99s Disease, Obesity'
+p1397
+sg8
+g29
+ssS'NCT01880918'
+p1398
+(dp1399
+g6
+S'Diverticulum, Colon|Colorectal Neoplasms|Crohn Disease|Colitis, Ulcerative|Colostomy|Ileostomy - Stoma|Rectal Prolapse|Intestinal Polyposis|Lymphoma|Endometriosis|Intestinal Volvulus'
+p1400
+sg8
+g29
+ssS'NCT02612103'
+p1401
+(dp1402
+g6
+S'Inflammatory Bowel Disease|Colitis, Ulcerative|Crohn Disease'
+p1403
+sg8
+g29
+ssS'NCT02186275'
+p1404
+(dp1405
+g6
+S"Crohn's Disease"
+p1406
+sg8
+S'Drug|Vitamin D3: 3000 or 4000 UI/day then 2,000 UI/day|Weight at inclusion < 40 kg : 3 capsules of 1000 UI per day at induction and 2 capsules of 1000 UI per day at maintenance.\nWeight at inclusion \xe2\x89\xa5 40 kg : 4 capsules of 1000 UI per day at induction and 2 capsules of 1000 UI per day at maintenance.|Vitamin D3 3000 or 4000 UI/day then 2,000 UI/day|Cholecalciferol\n\nDrug|Vitamin D3 800 UI/day then 800 UI/day|Weight < 40 kg: 2 capsules of 400 UI per day and 1 capsules of placebo at induction and 2 capsules of 400 UI per day at maintenance\nWeight \xe2\x89\xa5 40 kg: 2 capsules of 400 UI per day and 2 capsules of placebo at induction and 2 capsules of 400 UI per day at maintenance|Vitamin D3 800 UI/day then 800 UI/day|Cholecalciferol'
+p1407
+ssS'NCT02240121'
+p1408
+(dp1409
+g6
+S"Crohn's Disease"
+p1410
+sg8
+S'Drug|Rifaximin DR||Rifaximin DR|\n\nDrug|Placebo||Placebo|'
+p1411
+ssS'NCT02749630'
+p1412
+(dp1413
+g6
+S'Healthy Volunteer, Ulcerative Colitis'
+p1414
+sg8
+S'Drug|Placebo (IV escalating doses)|Matching placebo to UTTR1147A administered intravenously|Healthy Volunteer,Ulcerative Colitis|\n\nDrug|UTTR1147A|Escalating doses of intravenously administered UTTR1147A|Healthy Volunteer,Ulcerative Colitis|'
+p1415
+ssS'NCT02601300'
+p1416
+(dp1417
+g6
+S'Colitis, Ulcerative'
+p1418
+sg8
+S'Drug|GED-0301||GED-0301 160 mg once daily (QD)|Mongersen'
+p1419
+ssS'NCT02578238'
+p1420
+(dp1421
+g6
+S"Pediatric Crohn's Disease"
+p1422
+sg8
+g29
+ssS'NCT02341742'
+p1423
+(dp1424
+g6
+S'Inflammatory Bowel Disease'
+p1425
+sg8
+S'Device|multiple examinations|biological,clinical, X-ray, DXA, accelerometry assessment|Patients|'
+p1426
+ssS'NCT02324699'
+p1427
+(dp1428
+g6
+S"Crohn's Disease"
+p1429
+sg8
+S'Drug|Prednisone||Prednisone co-inductive therapy|corticosteroids\n\nDrug|Placebo||Placebo|\n\nDrug|Vedolizumab|300mg IV over 30 minutes. Both arms will receive vedolizumab at weeks 0, 2, and 6.|Prednisone co-inductive therapy,Placebo|Entyvio'
+p1430
+ssS'NCT02560727'
+p1431
+(dp1432
+g6
+S'Inflammatory Bowel Diseases'
+p1433
+sg8
+S'Device|transendoscopic enteral tubing|Investigators designed transendoscopic enteral tubing (TET).The enteral segment of the tube is fixed in the ileocecum with distal segment fixed buttocks. The tube was used for FMT and colonic local administration|Transendoscopic enteral tubing|TET\n\nDevice|colonoscope|FMT via colonoscope is the most common approach.|colonoscope via of FMT|'
+p1434
+ssS'NCT02389075'
+p1435
+(dp1436
+g6
+S'Inflammatory Bowel Diseases|Ankylosing Spondylitis'
+p1437
+sg8
+S'Procedure|Pinch biopsies|Biopsies obtained during colonoscopy or flexible sigmoidoscopy.|Ankylosing Spondylitis,Inflammatory Bowel Disease,Healthy Controls|\n\nProcedure|Flexible sigmoidoscopy|Offered to subjects with ankylosing spondylitis who do not meet criteria for colonoscopy|Ankylosing Spondylitis|'
+p1438
+ssS'NCT01781481'
+p1439
+(dp1440
+g6
+S'Inflammatory Bowel Disease'
+p1441
+sg8
+g29
+ssS'NCT01417702'
+p1442
+(dp1443
+g6
+S'Crohn\xc2\xb4s Disease|Ulcerative Colitis'
+p1444
+sg8
+S'Device|High-definition white light endoscopy and i-Scan|Patients will undergo advanced endoscopic imaging. Findings will be compared to histopathological and clinical results.|Crohn\xc2\xb4s disease - active,Crohn\xc2\xb4s disease - quiescent,Ulcerative colitis - active,Ucerative colitis - quiescent|'
+p1445
+ssS'NCT02065622'
+p1446
+(dp1447
+g6
+S'Ulcerative Colitis'
+p1448
+sg8
+S'Drug|Adalimumab||Standard Induction Dose,Higher Induction Dose,Standard Maintenance Dose,Higher Maintenance Dose,Experimental Maintenance Dose|Humira\n\nOther|Placebo||Standard Induction Dose,Standard Maintenance Dose,Higher Maintenance Dose|'
+p1449
+ssS'NCT00695682'
+p1450
+(dp1451
+g6
+S'Diabetic Retinopathy|Macular Degeneration'
+p1452
+sg8
+S'Drug|intravitreal injection of infliximab|All subjects will receive 0.5 mg/ 0.05 mL of infliximab by intravitreal injection at their first treatment visit or the 6 weeks visit if eligible for a repeat injection.||'
+p1453
+ssS'NCT02193750'
+p1454
+(dp1455
+g6
+S"Crohn's Disease"
+p1456
+sg8
+S'Dietary Supplement|Placebo|1 placebo muesli bar and 1 serving placebo muesli per day (0.55 g total fructans/GOS)|Placebo|\n\nDietary Supplement|Moderate Oligosaccharide Group|1 placebo muesli bar and 1 serving intervention muesli per day (3.25 g total fructans/GOS)|Moderate Oligosaccharide Group|\n\nDietary Supplement|High Oligosaccharide Group|1 placebo muesli bar and 1 serving placebo muesli per day (5.43 g total fructans/GOS)|High Oligosaccharide Group|'
+p1457
+ssS'NCT01496053'
+p1458
+(dp1459
+g6
+S"Ulcerative Colitis|Crohn's Disease|Inflammatory Bowel Disease"
+p1460
+sg8
+S'Dietary Supplement|AndoSan|AndoSan 30 ml x 2 for 21 days|AndoSan|\n\nDietary Supplement|Sugar Extract|Sham comparator|Sugar extract|'
+p1461
+ssS'NCT01470612'
+p1462
+(dp1463
+g6
+S'Ulcerative Colitis'
+p1464
+sg8
+S'Drug|CP-690,550|5 mg tablets, BID, for at least 12 months|CP-690,550 5 mg BID|\n\nDrug|CP-690,550|10 mg tablets, BID, for at least 12 months|CP-690,550 10 mg BID|'
+p1465
+ssS'NCT02580864'
+p1466
+(dp1467
+g6
+S"Crohn's Disease"
+p1468
+sg8
+g29
+ssS'NCT02646657'
+p1469
+(dp1470
+g6
+S'Colitis, Ulcerative'
+p1471
+sg8
+S'Drug|Vedolizumab 300 mg|Open-label VEDOLIZUMAB 300 mg at week 0,2,6, 14, 22, 30, 38, 46|Early UC,Late UC|Entyvio'
+p1472
+ssS'NCT02350920'
+p1473
+(dp1474
+g6
+S'Inflammatory Bowel Disease'
+p1475
+sg8
+S'Behavioral|Acceptance and Committment Therapy (ACT)|This intervention will run with 12-15 participants in each group for a duration of 8 weeks. Each group session will last 1-1.5 hours.|Acceptance and Committment Therapy (ACT)|ACT'
+p1476
+ssS'NCT01338740'
+p1477
+(dp1478
+g6
+S"Crohn's Disease"
+p1479
+sg8
+S"Drug|Adalimumab and Infliximab|Patients with moderately to severely active Crohn's disease with primary non-response or loss of response to Adalimumab switch to Infliximab.|Switch from Adalimumab to Infliximab|"
+p1480
+ssS'NCT00816491'
+p1481
+(dp1482
+g6
+S'Ulcerative Colitis'
+p1483
+sg8
+S'Device|conventional white light colonoscopy|conventional white light colonoscopy|A|\n\nDevice|FICE (Fujinon Intelligent Chromoendoscopy)|chromoendoscopy|B|'
+p1484
+ssS'NCT00622557'
+p1485
+(dp1486
+g6
+S"Colon Cancer|Diverticulitis|Colorectal Polyps|Crohn's Disease|Ulcerative Colitis|Rectal Cancer"
+p1487
+sg8
+g29
+ssS'NCT02148718'
+p1488
+(dp1489
+g6
+S"Moderate to Severe Crohn's Disease"
+p1490
+sg8
+S'Biological|ADALIMUMAB|ADALIMUMAB|Arm 1|Humira, ABT-D2E7'
+p1491
+ssS'NCT02322307'
+p1492
+(dp1493
+g6
+S"Inflammatory Bowel Disease|Crohn's Disease|Ulcerative Colitis"
+p1494
+sg8
+S'Other|HealthPROMISE users|Patients using HealthPROMISE will be asked to use the application once every two weeks at a minimum to provide updates on health information. Providers can use the data entered by patients in real time. Patients will get alerts requesting them to contact their providers if their quality of life scores fall below a certain threshold or their symptoms scores are worrisome. Both patients and physicians are also sent regular notifications with data about their own health or health of their patient panel respectively. Both patients and providers are encouraged to use existing communication tools (phone, office visits, personal health records) since direct patient-physician messaging is not provided in the HealthPROMISE platform. Reminders through app, email and SMS will be used to facilitate patient engagement.\nPhysicians will also be encouraged to check the physician panel to see how patients are doing through weekly updates and monthly quality improvement meetings.|HealthPROMISE users|HealthPROMISE\n\nOther|Control Group|In order to eliminate a placebo effect, patients in both groups will get an app customized for IBD. Physician and rest of care team will not be blinded since they will use HealthPROMISE dashboard to get alerts and notifications.|Control Group|InformHealth'
+p1495
+ssS'NCT02772458'
+p1496
+(dp1497
+g6
+S"Crohn's Disease"
+p1498
+sg8
+S"Other|Dodecanoate acid and saline|Test drink|Crohn's Disease,Healthy|"
+p1499
+ssS'NCT01040910'
+p1500
+(dp1501
+g6
+S"Crohn's Disease|Ulcerative Colitis"
+p1502
+sg8
+S'Drug|smoking of cannabis|smoking of cannabis, 2 cigarettes a day, equivalent to about 50 mg THC|cannabis smoking for IBD|\n\nDrug|smoking cigarettes with placebo|smoking cigarettes with cannabis that was chemically treated so that most active ingredients were removed|patients smoking non active cannabis|'
+p1503
+ssS'NCT01915927'
+p1504
+(dp1505
+g6
+S"Perianal Crohn's Disease"
+p1506
+sg8
+S'Drug|MSC-AFP||1|'
+p1507
+ssS'NCT02451839'
+p1508
+(dp1509
+g6
+S"Crohn's Disease|Rheumatoid Arthritis|Psoriasis"
+p1510
+sg8
+g29
+ssS'NCT01280825'
+p1511
+(dp1512
+g6
+S'Patients Undergoing Routine Health Care|Heart Diseases|Inflammatory Bowel Diseases|Autoimmune Disease|Inflammatory Disease|Blood Coagulation Disorders|Hepatitis C|Non-Metastatic Neoplasm'
+p1513
+sg8
+g29
+ssS'NCT02247622'
+p1514
+(dp1515
+g6
+S'Primary Sclerosing Cholangitis|Inflammatory Bowel Disease'
+p1516
+sg8
+g29
+ssS'NCT02750800'
+p1517
+(dp1518
+g6
+S"Rheumatoid Arthritis|Ankylosing Spondylitis|Psoriatic Arthritis|Psoriasis|Crohn's Disease|Ulcerative Colitis"
+p1519
+sg8
+g29
+ssS'NCT02019602'
+p1520
+(dp1521
+g6
+S"Axial Spondyloarthritis (AxSpA)|Non-radiographic Evidence-AxSpA|Ankylosing Spondylitis|Crohn's Disease|Psoriatic Arthritis|Rheumatoid Arthritis"
+p1522
+sg8
+S'Procedure|Blood sampling from mother|A blood sample from the mother will be taken within 24 hours before/after the delivery.|Pharmacokinetic samples|\n\nProcedure|Blood sampling from infant|Blood samples from the infant will be taken within 24 hours after birth, at Week 4 and at Week 8.|Pharmacokinetic samples|\n\nProcedure|Blood sampling from umbilical cord|A blood sample from the umbilical cord will be taken directly (within 1 hour ) after delivery.|Pharmacokinetic samples|\n\nBiological|Certolizumab Pegol|Mothers who decided to continue on, or to start treatment with, CZP for an approved indication with their treating physician prior to participation into this study. The mother is responsible for procuring her own supply of commercial CZP. The CZP dose and administration schedule will be as per the locally approved label.\nActive Substance: Certolizumab Pegol\nPharmaceutical Form: Solution for injection\nConcentration: 200 mg/ml\nRoute of Administration: Subcutaneous Use|Pharmacokinetic samples|Cimzia\xc2\xae'
+p1523
+ssS'NCT01988506'
+p1524
+(dp1525
+g6
+S"Rheumatoid Arthritis|Ankylosing Spondylitis|Systemic Lupus Erythematosus|Psoriasis|Behcet's Disease|Wegener's Granulomatosis|Takayasu's Disease|Crohn's Disease|Ulcerative Colitis|Autoimmune Hepatitis|Sclerosing Cholangitis"
+p1526
+sg8
+S'Drug|Interleukin 2|Induction period: repeated administration of low-dose IL-2 (1MUI/day, sc) during 5 consecutive days.Maintenance period: treatment with IL-2, 1MUI once every 15 days for 6 months|Interleukin 2|'
+p1527
+ssS'NCT02622139'
+p1528
+(dp1529
+g6
+S"Crohn's Disease|Ulcerative Colitis|IBD"
+p1530
+sg8
+S'Device|Multispectral Optoacoustic Tomography (MSOT)|MSOT for the evaluation of disease activity in IBD patients|Multispectral Optoacoustic Tomography|'
+p1531
+ssS'NCT02685683'
+p1532
+(dp1533
+g6
+S"Crohn's Disease"
+p1534
+sg8
+S'Drug|GED-0301|During Induction period patient will receive mongersen 160 mg daily for 12 weeks. This study also offers patients the option to continue with maintenance treatment at the discretion of the Investigator, beginning after the Week 12 Visit with alternating rest periods for 4 weeks, followed by mongersen (GED-0301) 160 mg QD for 4 weeks, up through the Week 52 Visit during the Maintenance Period|GED-0301 Induction (160mg) followed by intermittent 160 mg|Mongersen'
+p1535
+ssS'NCT02163759'
+p1536
+(dp1537
+g6
+S'Ulcerative Colitis'
+p1538
+sg8
+S'Drug|adalimumab|160 mg administered SC at Week 0; 80 mg administered SC at Week 2; 40 mg SC at Weeks 4, 6 and 8|etrolizumab placebo + adalimumab|\n\nOther|adalimumab placebo|Administered SC at Weeks 0, 2, 4, 6 and 8|etrolizumab + adalimumab placebo,etrolizumab placebo + adalimumab placebo|\n\nDrug|etrolizumab|105 mg administered SC Q4W|etrolizumab + adalimumab placebo|\n\nOther|etrolizumab placebo|Administered SC Q4W|etrolizumab placebo + adalimumab,etrolizumab placebo + adalimumab placebo|'
+p1539
+ssS'NCT02445365'
+p1540
+(dp1541
+g6
+S'Colitis, Ulcerative|Gastrointestinal Diseases|Pathologic Processes|Intestinal Diseases|Inflammatory Bowel Diseases'
+p1542
+sg8
+S'Device|AutoRIC device||Active RIC,Sham|'
+p1543
+ssS'NCT01971970'
+p1544
+(dp1545
+g6
+S'Inflammatory Bowel Diseases'
+p1546
+sg8
+S'Biological|Infliximab|Remission induction in anti-TNF na\xc3\xafve patients will be achieved by administration of 5 mg/kg IFX infusions at week 0, 2 and 6.|Pediatric IBD patients,Adult IBD patients|Remicade\n\nBiological|Adalimumab|ADA is administered as subcutaneous injections every other week.In children (age below 18 years), remission induction in anti-TNF na\xc3\xafve patients will be achieved by an initial loading dose of 80 mg, followed by 40 mg 2 weeks later. In adults, remission is induced by 160 mg at week 0, followed by 80 mg at week 2|Pediatric IBD patients,Adult IBD patients|Humira'
+p1547
+ssS'NCT02520843'
+p1548
+(dp1549
+g6
+S'Crohn Disease'
+p1550
+sg8
+S"Drug|stromal vascular fraction (SVF)|stromal vascular fraction (SVF) is administered to the patient suffering of Refractory Crohn's disease around of the fistula by local mico injection|Crohn's disease treated by SVF|"
+p1551
+ssS'NCT02225795'
+p1552
+(dp1553
+g6
+S"Crohn's Disease"
+p1554
+sg8
+S'Other|Hematopoietic stem cell transplantation|Immuno-ablative regimen for HSCT:\nDay Treatment\n6 r-ATG 2 mg/kg\n5 r-ATG3 2 mg/kg\n4 r-ATG3 2 mg/kg\n3 Cyclophosphamide with Mesna\n2 Cyclophosphamide with Mesna\n1 REST 0 PBSC infusion\n3 Cyclophosphamide with Mesna\n4 Cyclophosphamide with Mesna\n6 Start GCSF|Single Arm: All subjects|ANTI-THYMOCYTE GLOBULIN (Rabbit) NSC# 720095,CYCLOPHOSPHAMIDE (Cytoxan) NSC #26271,MESNA - INJECTION NSC #113891,GCSF: Filgrastim: 5 mcg/kg iv,Stem-cell mobilization,Leukapheresis'
+p1555
+ssS'NCT02439372'
+p1556
+(dp1557
+g6
+S'Ulcerative Colitis|Cytomegalovirus Infections|Disease Exacerbation'
+p1558
+sg8
+g29
+ssS'NCT01823042'
+p1559
+(dp1560
+g6
+S"Crohn's Disease"
+p1561
+sg8
+S'Drug|azathioprine+enteral nutrition||enteral nutrition+azathioprine|\n\nDrug|Azathioprine||azathioprine|'
+p1562
+ssS'NCT01984879'
+p1563
+(dp1564
+g6
+S'Inflammatory Bowel Disease'
+p1565
+sg8
+S'Other|Survey with structured questionnaire form for inflammatory bowel disease patient group|For patients with inflammatory bowel disease, survey with structured questionnaire form is carried out.|Inflammatory bowel diseases|'
+p1566
+ssS'NCT01986127'
+p1567
+(dp1568
+g6
+S"Crohn's Disease"
+p1569
+sg8
+S'Drug|Adalimumab|single intralesional administration during endoscopy process|Adalimumab|\n\nDrug|placebo|single intralesional administration during endoscopy|saline|'
+p1570
+ssS'NCT02493712'
+p1571
+(dp1572
+g6
+S'Colitis, Ulcerative'
+p1573
+sg8
+S'Drug|High dose|6 capsules of IBD98-M, twice a day|High dose|Mesalamine-Sodium Hyaluronic 200 mg-23 mg\n\nDrug|Low dose|4 capsules of IBD98-M|Low dose|Mesalamine-Sodium Hyaluronic 200 mg-23 mg\n\nDrug|Placebo|Placebo|Placebo: C|'
+p1574
+ssS'NCT01674478'
+p1575
+(dp1576
+g6
+S'Prematurity|Intestine Perforation|Necrotizing Enterocolitis (NEC)|Short Bowel Syndrome (SBS)'
+p1577
+sg8
+S'Dietary Supplement|Microlipid and fish oil|Fish oil will start with initial feeding after ostomy placement and Microlipid will start once infant tolerating enteral feeds at 20 ml /kg/d while weaning the Intralipid, which both will be continued until reanastomosis.|Microlipid and fish oil group|\n\nDietary Supplement|Microlipid|A small amount (ml) of Microlipid to match the amount of fish oil in ML/FO group will start with initial feeding after ostomy placement and Microlipid will start once infant tolerating enteral feeds at 20 ml /kg/d while weaning the Intralipid, which will be continued until reanastomosis.|Microlipid group|'
+p1578
+ssS'NCT02492555'
+p1579
+(dp1580
+g6
+S'Inflammatory Bowel Disease'
+p1581
+sg8
+S'Other|SI|A routine scheduled (SI) screening of FC and DA every 3rd month|Scheduled (SI)|\n\nOther|OD|A screening of FC and DA on demand (OD)|On Demand (OD)|'
+p1582
+ssS'NCT01632488'
+p1583
+(dp1584
+g6
+S'Irritable Bowel Syndrome|Inflammatory Bowel Disease'
+p1585
+sg8
+g29
+ssS'NCT02424175'
+p1586
+(dp1587
+g6
+S'Sclerosing Cholangitis'
+p1588
+sg8
+S'Biological|Fecal Microbiota Transplantation||Patients with PSC|'
+p1589
+ssS'NCT02142725'
+p1590
+(dp1591
+g6
+S'Ulcerative Colitis'
+p1592
+sg8
+S'Drug|LT-02|four times per day|LT-02|\n\nDrug|LT-02|two times per day|B: LT-02|\n\nDrug|Placebo|four times per day|Placebo|'
+p1593
+ssS'NCT02539849'
+p1594
+(dp1595
+g6
+S'Crohn Disease'
+p1596
+sg8
+S'Dietary Supplement|FOS||adalimumab + FOS|\n\nDrug|Adalimumab||adalimumab + FOS|'
+p1597
+ssS'NCT00606346'
+p1598
+(dp1599
+g6
+S"Crohn's Disease|Ulcerative Colitis|Indeterminate Colitis|Inflammatory Bowel Diseases"
+p1600
+sg8
+S'Biological|Anti TNF therapy including infliximab|Treatments will be prescribed according to investigator judgement.|Anti TNF therapy including infliximab|\n\nDrug|No Biologics|Treatments will be prescribed according to investigator judgement.|No Biologics|'
+p1601
+ssS'NCT02460705'
+p1602
+(dp1603
+g6
+S'Inflammatory Bowel Disease'
+p1604
+sg8
+S'Drug|Biologically active human fecal material, OpenBiome|Fecal microbiota transplant|IBD patients receiving FMT|'
+p1605
+ssS'NCT00692939'
+p1606
+(dp1607
+g6
+S"Crohn's Disease"
+p1608
+sg8
+S'Biological|autologous CD34-selected peripheral blood stem cells transplant|high-dose immunotherapy followed by infusion of autologous CD34-selected peripheral blood stem cells (PBSC)|1|'
+p1609
+ssS'NCT02472457'
+p1610
+(dp1611
+g6
+S'Crohn Disease'
+p1612
+sg8
+S'Other|Crohn Disease Exclusion Diet|The CDED is divided into 4 stages: 0-6 weeks induction phase, weeks 7-12 step down phase, weeks 13-24 maintenance phase I, and weeks 25-52 maintenance phase II.|Crohn Disease Exclusion Diet|\n\nOther|Free Diet|This diet contains no restrictions.|Free Diet|Placebo'
+p1613
+ssS'NCT01882205'
+p1614
+(dp1615
+g6
+S'Ulcerative Colitis'
+p1616
+sg8
+S'Device|Virtual chromoendoscopy||OLYMPUS NBI,FUJINON FICE,PENTX i-scan|Narrow band Imaging (NBI),Fujinon Intelligent Color Enhancement,I-scan\n\nProcedure|Chromoendoscopy|Panchromocolonoscopy with methyleen blue 0.1%|OLYMPUS CHROMO,FUJINON CHROMO,PENTAX CHROMO|'
+p1617
+ssS'NCT00711945'
+p1618
+(dp1619
+g6
+S"Crohn's Disease|Pediatric Onset"
+p1620
+sg8
+g29
+ssS'NCT02639416'
+p1621
+(dp1622
+g6
+S'Severe Malnutrition|Enteritis'
+p1623
+sg8
+S"Dietary Supplement|Polymeric formula|Polymeric formulae are recommended in the management of inflammatory bowel disease in children|Polymeric formula|\n\nDietary Supplement|Elemental formula|Elemental formulae are recommended in cow's milk and other food intolerances in children.|Elemental formula|\n\nOther|Standard management|Standard management with F-100 and/or RUTF|Standard management|"
+p1624
+ssS'NCT02665845'
+p1625
+(dp1626
+g6
+S'Ulcerative Colitis'
+p1627
+sg8
+S'Drug|5-ASA|5ASA treatment (oral 5ASA will be given to all patients in this arm, in addition to topical 5ASA in patients who tolerate it).|5-ASA group|5-aminosalicylates\n\nDrug|Corticosteroids|Corticosteroids will be given to all patients.|5-ASA group,Control group|Usual care'
+p1628
+ssS'NCT02516384'
+p1629
+(dp1630
+g6
+S'Ulcerative Colitis'
+p1631
+sg8
+S'Biological|Fecal Microbiota Transplantation|We will use fecal microbiota transplantation (FMT), with fecal material obtained from OpenBiome or donor directed, to assess safety (as primary outcome) and efficacy (as secondary outcome) in adult (>18 year old) patients with active ulcerative colitis (UC).|Fecal Microbiota Transplantation|'
+p1632
+ssS'NCT01090154'
+p1633
+(dp1634
+g6
+S'Ulcerative Colitis'
+p1635
+sg8
+S'Drug|Cimzia|Cimzia 400mg administered via two 200mg subcutaneous injections at weeks 0, 2, and 4; followed by every 4 week dosing.|Cimzia|certolizumab pegol'
+p1636
+ssS'NCT02171429'
+p1637
+(dp1638
+g6
+S'Ulcerative Colitis'
+p1639
+sg8
+S'Drug|adalimumab|160 mg administered SC at Week 0; 80 mg administered SC at Week 2; 40 mg SC at Weeks 4, 6 and 8|etrolizumab placebo + adalimumab|\n\nOther|adalimumab placebo|Administered SC at Weeks 0, 2, 4, 6 and 8|etrolizumab + adalimumab placebo,etrolizumab placebo + adalimumab placebo|\n\nDrug|etrolizumab|105 mg administered SC Q4W|etrolizumab + adalimumab placebo|\n\nOther|etrolizumab placebo|Administered SC Q4W|etrolizumab placebo + adalimumab,etrolizumab placebo + adalimumab placebo|'
+p1640
+ssS'NCT01705522'
+p1641
+(dp1642
+g6
+S"Ulcerative Colitis|Crohn's Disease|Nonalcoholic Fatty Liver Disease (NAFLD)|Vitamin D Deficiency"
+p1643
+sg8
+g29
+ssS'NCT02610101'
+p1644
+(dp1645
+g6
+S"Crohn's Disease"
+p1646
+sg8
+S'Other|Traditional SCD Diet|Traditional SCD includes removal of all processed foods as well as all grains, sweetners except for honey and all diary except for yogurt fermented for over 24hrs and some hard cheeses|Traditional SCD Diet|SCD\n\nOther|Modified SCD Diet|Food components of the traditional SCD with the addition of rice and oats.|Modified SCD Diet|Modified SCD\n\nOther|Whole foods diet|A whole foods diet with removal of processed foods. Removal of corn, wheat, sugar and milk are also apart of this dietary regime.|Whole Foods Diet|'
+p1647
+ssS'NCT02574637'
+p1648
+(dp1649
+g6
+S"Crohn's Disease"
+p1650
+sg8
+S'Drug|MEDI2070 High dose|MEDI2070 intravenous (IV)infusion wks 0 & 4 plus placebo SC injection wks 0 & 4, and then subcutaneous (SC) dose of MEDI2070 every 4 wks through week 24. Beginning at wk 28, SC dose of MEDI2070 once every 4 weeks during the Open-label Period.|MEDI2070 High dose|\n\nDrug|MEDI2070 High-Med dose|MEDI2070 intravenous (IV) infusion wk 0 plus placebo SC injection wk 0, and then subcutaneous (SC) dose of MEDI2070 wk 4 plus placebo IV infusion wk 4, and then subcutaneous (SC) dose of MEDI2070 every 4 wks from wk 8 through week 24. Beginning at wk 28, SC dose of MEDI2070 once every 4 weeks during the Open-label Period.|MEDI2070 High-Med dose|\n\nDrug|MEDI2070 Low-Med dose|Subcutaneous (SC) low-med dose of MEDI2070 wk 0 & wk 4 plus placebo intravenous (IV) infusion wk 0 & wk 4, then subcutaneous (SC) low-med dose of MEDI2070 every 4 wks wk 8 through week 24. Beginning at wk 28, SC dose of MEDI2070 once every 4 weeks during the Open-label Period.|MEDI2070 Low-Med dose|\n\nDrug|MEDI2070 Low dose|Subcutaneous (SC) low dose of MEDI2070 Wk 0 & Wk 4 plus intravenous (IV) Placebo dose Wk 0 & Wk 4, then subcutaneous (SC) low dose of MEDI2070 every 4 wks wk 8 through week 24. Beginning at wk 28, SC dose of MEDI2070 once every 4 weeks during the Open-label Period.|MEDI2070 Low dose|\n\nDrug|Placebo|Placebo SC and IV infusion wks 0 & 4 and then SC dose of placebo every 4 weeks wk 8 through wk 24. then SC dose of MEDI2070 once every 4 weeks during Open Label period.|Placebo|'
+p1651
+ssS'NCT02622763'
+p1652
+(dp1653
+g6
+S"Crohn's Disease"
+p1654
+sg8
+S'Biological|Tolerogenic Dendritic Cells|Intralesional administration|10 millions dose,100 millions dose|'
+p1655
+ssS'NCT02255227'
+p1656
+(dp1657
+g6
+S'Infections, Pneumococcal|Bowel Diseases, Inflammatory'
+p1658
+sg8
+S'Biological|Prevenar 13|one dose for arm 1 and 2 doses for arm 2|1 dose Prevenar13 and 1 dose PSV23,2 doses Prevenar13 and 1 dose PSV23|\n\nBiological|Pneumo 23|one dose|1 dose Prevenar13 and 1 dose PSV23,2 doses Prevenar13 and 1 dose PSV23|'
+p1659
+ssS'NCT02614911'
+p1660
+(dp1661
+g6
+S'Inflammatory Bowel Disease'
+p1662
+sg8
+S'Other|Biological sampling|Biological sampling including blood, feces, biopsies...|Sick patients,Healthy relatives|'
+p1663
+ssS'NCT00988273'
+p1664
+(dp1665
+g6
+S'Inflammatory Bowel Disease'
+p1666
+sg8
+S'Device|Confocal endomicroscopy|Patients will undergo confocal endomicroscopy during their endoscopy, and findings of the confocal endomicroscopy in the control group will be compared to the diseased group.|Control|laser confocal endomicroscopy\n\nDevice|Confocal endomicroscopy|Patients will undergo confocal endomicroscopy during their endoscopy, and findings of the confocal endomicroscopy in the diseased group will be compared to the control.|Diseased group|laser confocal endomicroscopy'
+p1667
+ssS'NCT02566889'
+p1668
+(dp1669
+g6
+S'Inflammatory Bowel Disease'
+p1670
+sg8
+S'Drug|Infliximab|Participants in the dose escalation group will escalate dose from infliximab 5 mg/kg q8w to 10 mg/kg q8w at the time of loss response. Participants in the reference group will be maintained on infliximab 5 mg/kg q8w.|Dose Escalation Group,Reference Group|Remicade'
+p1671
+ssS'NCT02049775'
+p1672
+(dp1673
+g6
+S'Ulcerative Colitis (UC)'
+p1674
+sg8
+S'Procedure|NBI||NBI|'
+p1675
+ssS'NCT01169194'
+p1676
+(dp1677
+g6
+S'Inflammatory Bowel Disease'
+p1678
+sg8
+g29
+ssS'NCT02618187'
+p1679
+(dp1680
+g6
+S'Ulcerative Colitis'
+p1681
+sg8
+S'Drug|Eubacterial Spores, Purified Suspension, Encapsulated||Placebo Pre-Treat + Weekly Drug,Antibiotic Pre-Treat + Daily Drug,Anitibiotic Pre-Treat + Weekly Drug|SER-287\n\nDrug|Placebo||Placebo Pre-Treat + Daily placebo|\n\nDrug|Placebo Pre-Treat||Placebo Pre-Treat + Weekly Drug,Placebo Pre-Treat + Daily placebo|\n\nDrug|Vancomycin Pre-Treat||Antibiotic Pre-Treat + Daily Drug,Anitibiotic Pre-Treat + Weekly Drug|'
+p1682
+ssS'NCT02046694'
+p1683
+(dp1684
+g6
+S'Acute Lymphoblastic Leukemia (ALL)'
+p1685
+sg8
+S'Drug|Allopurinol|At week 1, patients will begin allopurinol daily (100 mg for weight >30 kg, 50 mg for weight \xe2\x89\xa430 kg) and will restart 6-MP and methotrexate at 50 percent of the most recent dose. Patients will continue taking allopurinol in combination with 6-MP and methotrexate for the duration of the study (total of 8 weeks).|Allopurinol|Zyloprim'
+p1686
+ssS'NCT01140789'
+p1687
+(dp1688
+g6
+S"Crohn's Disease|Ulcerative Colitis"
+p1689
+sg8
+g29
+ssS'NCT01583712'
+p1690
+(dp1691
+g6
+S'Haematopoietic Stem Cell Transplantation'
+p1692
+sg8
+S'Procedure|Confocal laser endomicroscopy|Endomicroscopy of the upper gastrointestinal tract including endomicroscopic pictures taken every ten centimetres in the small bowel, gastric antrum, gastric corpus and esophagus.|Endomicroscopy|\n\nDevice|Confocal Laser Endomicroscope|Pentax EC-3870 CIFK with the ISC-1000 confocal endomicroscopy processor - Pentax, Tokyo, Japan and Optiscan Pty Ltd, Notting Hill, Victoria, Australia|Endomicroscopy|'
+p1693
+ssS'NCT01851343'
+p1694
+(dp1695
+g6
+S'Inflammatory Bowel Disease'
+p1696
+sg8
+S'Other|Bone Marrow Stromal Cell (BMSC) Infusion|Subjects will receive 4 weekly BMSC infusions and be monitored for AEs as well as for clinical improvement and mucosal healing.|1|'
+p1697
+ssS'NCT02128503'
+p1698
+(dp1699
+g6
+S'Inflammatory Bowel Disease|Crohn Disease|Ulcerative Colitis|Rheumatic Diseases|Hepatitis B, Chronic'
+p1700
+sg8
+S'Other|HBV DNA level monitoring|HBV DNV level being monitoring regularly|HBV DNA level monitoring|'
+p1701
+ssS'NCT02364973'
+p1702
+(dp1703
+g6
+S'IBD'
+p1704
+sg8
+S'Other|PET-MRI|The study patients undergo positron emission tomography (PET) after informed consent is obtained|PET-MRI|'
+p1705
+ssS'NCT01039597'
+p1706
+(dp1707
+g6
+S'Mild to Moderate Ulcerative Colitis'
+p1708
+sg8
+S'Drug|ORE1001|Oral capsules containing 300 mg of the active, study drug|Active study drug|GL1001\n\nDrug|Placebo|placebo capsules|Placebo control|matched placebo'
+p1709
+ssS'NCT01479660'
+p1710
+(dp1711
+g6
+S'Ulcerative Colitis'
+p1712
+sg8
+S'Other|Control|Placebo will be orally administered daily for a period of 12 weeks in high dose and low dose|Control|\n\nDrug|Probiotic|Probiotic Capsules (450 billion CFU) will be orally administered daily for a period of 12 weeks and Probiotic in higher dose of (3600 billion CFU) will be administered daily for a period of 12 weeks|Probiotic|'
+p1713
+ssS'NCT02144350'
+p1714
+(dp1715
+g6
+S'Ulcerative Colitis'
+p1716
+sg8
+S'Procedure|Hyperbaric oxygen|patients will be placed in a monoplane chamber and pressurized to 2.4 atmospheres with 100% oxygen for 90 minutes per session.|Intervention|\n\nProcedure|Sham Hyperbaric Air|Patients will undergo a brief compression to 1.34 atmospheres with room air and then they will be brought back to 1.1 atmospheres to complete a 90 minute session.|Sham|'
+p1717
+ssS'NCT01171872'
+p1718
+(dp1719
+g6
+S'Inflammatory Bowel Disease'
+p1720
+sg8
+g29
+ssS'NCT02499263'
+p1721
+(dp1722
+g6
+S'Ulcerative Colitis'
+p1723
+sg8
+g29
+ssS'NCT02304666'
+p1724
+(dp1725
+g6
+S"Inflammatory Bowel Disease (Crohn's Disease and Ulcerative Colitis)"
+p1726
+sg8
+S"Procedure|Colonoscopy for biopsies samples||Crohn disease's Patients,Control patient|"
+p1727
+ssS'NCT02093663'
+p1728
+(dp1729
+g6
+S'Ulcerative Colitis'
+p1730
+sg8
+S'Drug|MMX Mesalamine/Mesalazine||MMX Mesalamine/Mesalazine (Low Dose),MMX Mesalamine/Mesalazine (High Dose)|Lialda,Mezavant'
+p1731
+ssS'NCT02065570'
+p1732
+(dp1733
+g6
+S"Crohn's Disease"
+p1734
+sg8
+S'Drug|Adalimumab||Arm 1 - Induction,Arm 2 - Induction,Arm 1 Maintenance,Arm 2 Maintenance|Humira'
+p1735
+ss.
